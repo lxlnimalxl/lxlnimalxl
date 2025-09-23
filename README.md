@@ -1,6 +1,10 @@
 # 👋 Hello! I'm **Seyed Nima Rounaghi**
 
-### 💻 Front-End Developer | WordPress Developer | Graphic Designer | UI/UX | Admin | Computer Enthusiast | Freelancer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26\&duration=4000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Hi%2C+I'm+Nima+Rounaghi;Front-End+Developer;WordPress+Developer;UI%2FUX+Designer;Graphic+Designer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+![banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -57,6 +61,12 @@ I'm a **UI/UX designer**, **front-end developer**, and **graphic designer** with
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nima-rounaghi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ma3ter_learning/saved/all-posts/)
 [![Figma Resume](https://img.shields.io/badge/Figma%20Resume-000000?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/OPX4qeXhS6Z8oJQdmUaiYa/Resume?page-id=0%3A1&node-id=1-2&p=f&viewport=658%2C113%2C1.8&t=g4K6Aj21soFxU6bH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+
+---
+
+## 🐍 GitHub Activity Snake
+
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
