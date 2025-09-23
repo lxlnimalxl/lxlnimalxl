@@ -1,10 +1,14 @@
-# 👋 Hello! I'm **Seyed Nima Rounaghi**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26\&duration=4000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Hi%2C+I'm+Nima+Rounaghi;Front-End+Developer;WordPress+Developer;UI%2FUX+Designer;Graphic+Designer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32\&duration=4000\&color=00F7FF\&center=true\&vCenter=true\&width=800\&lines=👋+Hello!+I'm+Seyed+Nima+Rounaghi)](https://git.io/typing-svg)
 
 ---
 
-![banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28\&duration=4000\&color=FF6F91\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Nima+Rounaghi;Front-End+Developer+💻;WordPress+Developer+🌐;UI%2FUX+Designer+🎨;Graphic+Designer+🖌️;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="developer gif"/>
+</p>
 
 ---
 
@@ -19,17 +23,9 @@ I'm a **UI/UX designer**, **front-end developer**, and **graphic designer** with
 
 ## 🚀 Skills & Tools
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge\&logo=adobe-xd\&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,ps,xd,cpp,wordpress" />
+</p>
 
 ---
 
@@ -49,27 +45,66 @@ I'm a **UI/UX designer**, **front-end developer**, and **graphic designer** with
 
 ## 📚 Currently Learning
 
-* 🔥 Improving UI/UX skills
-* ⚡ Expanding front-end development knowledge with modern frameworks
-* 📈 Enhancing complementary programming and design skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9A7&center=true&vCenter=true&width=600&lines=React+⚛️;Next.js+⚡;Advanced+UI%2FUX+Design;Creative+Animations+🎬;AI+%26+Tech+Skills+🤖" />
+</p>
+
+---
+
+## 🌟 Featured Projects (Portfolio)
+
+<p align="center">
+  <a href="https://nooshabsanat.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimarounaghi&repo=nooshabsanat&theme=radical" />
+  </a>
+  <a href="https://lathegemstone.ir/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimarounaghi&repo=lathegemstone.ir&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lathegemstone.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimarounaghi&repo=lathegemstone.com&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Links
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nimarounaghi11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nima-rounaghi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ma3ter_learning/saved/all-posts/)
-[![Figma Resume](https://img.shields.io/badge/Figma%20Resume-000000?style=for-the-badge\&logo=figma\&logoColor=white)](https://www.figma.com/proto/OPX4qeXhS6Z8oJQdmUaiYa/Resume?page-id=0%3A1&node-id=1-2&p=f&viewport=658%2C113%2C1.8&t=g4K6Aj21soFxU6bH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2)
+<p align="center">
+<a href="mailto:nimarounaghi11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nima-rounaghi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ma3ter_learning/saved/all-posts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.figma.com/proto/OPX4qeXhS6Z8oJQdmUaiYa/Resume"><img src="https://img.shields.io/badge/Figma%20Resume-000000?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimarounaghi&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimarounaghi&theme=radical" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimarounaghi&bg_color=1a1b27&color=ff6f91&line=00c9a7&point=f8d847&area=true&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 GitHub Activity Snake
 
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
 ## ✨ My Motto
 
-> Always learning, always growing 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F8D847&center=true&vCenter=true&width=700&lines=Always+Learning%2C+Always+Growing+🚀;Creativity+%26+Code+Go+Hand+in+Hand+🎨💻" />
+</p>
