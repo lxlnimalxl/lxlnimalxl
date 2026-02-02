@@ -22,7 +22,7 @@
         <li>🎂 <strong>20 Years Old</strong></li>
         <li>🎨 <strong>5+ Years</strong> in Graphic & UI/UX Design</li>
         <li>💻 <strong>2+ Years</strong> in WordPress & Frontend</li>
-        <li>🔭 Currently working on <strong>Goharistan Iran</strong> & <strong>Lathe Gemstone</strong></li>
+        <li>🔭 Creator of <strong>Pet Shop Management System</strong> & <strong>Bus Tracker</strong></li>
         <li>🌱 Learning <strong>Next.js & Advanced React</strong></li>
       </ul>
       <br />
@@ -66,19 +66,56 @@
 
 ---
 
-<h3 align="center">🌟 Featured Projects</h3>
+<h3 align="center">💻 Open Source & Projects</h3>
 <div align="center">
   <table>
     <tr>
-      <td>
-        <a href="https://nooshabsanat.com/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimarounaghi&repo=nooshabsanat&theme=tokyonight&hide_border=true" />
+      <td width="50%">
+        <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true" />
         </a>
       </td>
-      <td>
-        <a href="https://lathegemstone.ir/">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimarounaghi&repo=lathegemstone.ir&theme=tokyonight&hide_border=true" />
+      <td width="50%">
+        <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true" />
         </a>
+      </td>
+    </tr>
+  </table>
+  <p>
+    <a href="https://lxlnimalxl.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/View_Full_Developer_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+<h3 align="center">🎨 Live Web Design & WordPress Projects</h3>
+<div align="center">
+  <br/>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://lathegemstone.com/">
+          <img src="https://img.shields.io/badge/Lathe_Gemstone-Jewelry_Store-FF6F91?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <br/>
+        <small>E-commerce / Jewelry</small>
+      </td>
+      <td align="center">
+        <a href="https://nooshabsanat.com/">
+          <img src="https://img.shields.io/badge/Nooshab_Sanat-Industrial_Site-00C9A7?style=for-the-badge&logo=wordpress&logoColor=white" />
+        </a>
+        <br/>
+        <small>Corporate / Industrial</small>
+      </td>
+      <td align="center">
+        <a href="https://havinmineco.com/">
+          <img src="https://img.shields.io/badge/Havin_Mine_Co-Mining_Company-F8D847?style=for-the-badge&logo=elementor&logoColor=black" />
+        </a>
+        <br/>
+        <small>Business / Mining</small>
       </td>
     </tr>
   </table>
