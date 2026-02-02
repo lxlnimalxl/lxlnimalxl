@@ -1,46 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nima+Rounaghi+👋;Creative+Frontend+Developer;UI%2FUX+%26+Graphic+Designer;WordPress+Specialist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,35&height=280&section=header&text=Nima%20Rounaghi&fontSize=80&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Frontend%20Developer&descAlignY=55&descSize=25&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="coding" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=338294&center=true&vCenter=true&width=435&lines=Creative+Developer+🎨;WordPress+Master+🌐;Pixel+Perfect+Designer+✨;Always+Learning+🚀" alt="Typing SVG" />
+  </a>
 </div>
 
-<h3 align="center">🚀 Crafting Digital Experiences with Code & Design</h3>
+<br />
 
----
-
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        I'm a multi-disciplinary developer with a passion for creating beautiful and functional interfaces.
+    <td width="45%" valign="top">
+      <h3 align="left">👨‍💻 About Me</h3>
+      <p align="left">
+        I create digital experiences that blend <strong>Art</strong> with <strong>Code</strong>. 
       </p>
-      <ul>
-        <li>🎓 <strong>Computer Engineering</strong> Student at University of Birjand</li>
-        <li>🎂 <strong>20 Years Old</strong></li>
-        <li>🎨 <strong>5+ Years</strong> in Graphic & UI/UX Design</li>
-        <li>💻 <strong>2+ Years</strong> in WordPress & Frontend</li>
-        <li>🔭 Creator of <strong>Pet Shop Management System</strong> & <strong>Bus Tracker</strong></li>
-        <li>🌱 Learning <strong>Next.js & Advanced React</strong></li>
-      </ul>
+      <p align="left">
+        🎓 <strong>Student:</strong> Computer Engineering<br>
+        🎨 <strong>Focus:</strong> UI/UX & Frontend<br>
+        📍 <strong>Location:</strong> Birjand, Iran<br>
+        💼 <strong>Experience:</strong> 5+ Years Design / 2+ Years Code
+      </p>
       <br />
-      <div align="center">
-        <a href="mailto:nimarounaghi11@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/nima-rounaghi/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
+      <div align="left">
+        <a href="mailto:nimarounaghi11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/nima-rounaghi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3 align="center">📊 GitHub Stats</h3>
+    <td width="10%"></td>
+    <td width="45%" valign="top">
+      <h3 align="center">🛠 My Arsenal</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nimarounaghi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588a?style=flat-square&logo=woocommerce&logoColor=white" />
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimarounaghi&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adobe%20Ps-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adobe%20Ai-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
+      </div>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/github/followers/nimarounaghi?label=Followers&style=social" />
       </div>
     </td>
   </tr>
@@ -48,74 +55,35 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack & Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
-</div>
+<h3 align="center">💎 Featured Live Projects</h3>
+<p align="center">Real-world websites designed and developed.</p>
 
----
-
-<h3 align="center">💻 Open Source & Projects</h3>
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p>
-    <a href="https://lxlnimalxl.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/View_Full_Developer_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-<h3 align="center">🎨 Live Web Design & WordPress Projects</h3>
-<div align="center">
-  <br/>
-  <table>
-    <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://lathegemstone.com/">
-          <img src="https://img.shields.io/badge/Lathe_Gemstone-Jewelry_Store-FF6F91?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          <img src="https://img.shields.io/badge/🛍️_Jewelry_Store-Visit_Site-FF6F91?style=for-the-badge" />
         </a>
-        <br/>
-        <small>E-commerce / Jewelry</small>
+        <br/><br/>
+        <strong>Lathe Gemstone</strong><br/>
+        <small>E-Commerce / UI Design</small>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://nooshabsanat.com/">
-          <img src="https://img.shields.io/badge/Nooshab_Sanat-Industrial_Site-00C9A7?style=for-the-badge&logo=wordpress&logoColor=white" />
+          <img src="https://img.shields.io/badge/🏭_Industrial-Visit_Site-00C9A7?style=for-the-badge" />
         </a>
-        <br/>
-        <small>Corporate / Industrial</small>
+        <br/><br/>
+        <strong>Nooshab Sanat</strong><br/>
+        <small>Corporate / Branding</small>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <a href="https://havinmineco.com/">
-          <img src="https://img.shields.io/badge/Havin_Mine_Co-Mining_Company-F8D847?style=for-the-badge&logo=elementor&logoColor=black" />
+          <img src="https://img.shields.io/badge/⛏️_Mining_Co-Visit_Site-F8D847?style=for-the-badge" />
         </a>
-        <br/>
-        <small>Business / Mining</small>
+        <br/><br/>
+        <strong>Havin Mine Co</strong><br/>
+        <small>Business / WordPress</small>
       </td>
     </tr>
   </table>
@@ -123,25 +91,28 @@
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">💻 Code & Repositories</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimarounaghi&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true&icon_color=ff91a4" />
+  </a>
+  <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true&icon_color=38b2ac" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" alt="Footer Aesthetic" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=C0CAF5&center=true&vCenter=true&width=435&lines=Always+Learning%2C+Always+Growing+🚀;Creativity+%26+Code+Go+Hand+in+Hand+🎨" />
-  </p>
+  <br />
   <a href="https://www.instagram.com/ma3ter_learning/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@ma3ter__learning-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.figma.com/proto/OPX4qeXhS6Z8oJQdmUaiYa/Resume">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-000000?style=flat-square&logo=figma&logoColor=white" />
-  </a>
+  <p>Designed with ❤️ by Nima</p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,35&height=100&section=footer" width="100%" />
