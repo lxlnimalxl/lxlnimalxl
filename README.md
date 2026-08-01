@@ -7,7 +7,7 @@
   <h3 align="center">Crafting Premium Digital Experiences That Drive Results 🚀</h3>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Frontend+Developer;UI%2FUX+%26+Creative+Designer;E-Commerce+%26+WordPress+Specialist;Available+for+International+Remote+Projects+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Software+Engineer;UI%2FUX+%26+Creative+Designer;E-Commerce+%26+Django+Specialist;Available+for+International+Remote+Projects+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,13 +21,13 @@
 <h3 align="center">💡 About Me & My Vision</h3>
 
 <p align="center">
-  I am a Computer Engineering student and a dedicated <strong>Full-Stack & Freelance Developer</strong> based in Iran. I specialize in helping startups and enterprise businesses build scalable, high-converting web applications. I don't just write code; I solve complex business problems through intuitive <strong>UI/UX design</strong> and <strong>high-performance software architecture</strong>.
+  I am a Computer Engineering student at the University of Birjand and a dedicated <strong>Full-Stack Developer</strong> based in Iran. As the driving force behind <strong>Megabyte System Development</strong>, I specialize in helping startups and enterprise businesses build scalable, high-converting web applications. I don't just write code; I solve complex business problems through intuitive <strong>UI/UX design</strong> and <strong>high-performance software architecture</strong>.
 </p>
 
 <div align="center">
   <p>
     🌍 <strong>Open for:</strong> International remote work, freelance contracts, and open-source collaborations.<br>
-    🌱 <strong>Currently mastering:</strong> Advanced React/Next.js patterns, Python Backend Architectures (Django), and Scalable Systems.<br>
+    🌱 <strong>Currently mastering:</strong> Python Backend Architectures (Django), Advanced React patterns, and Scalable Systems.<br>
     🤝 <strong>Let's connect:</strong> Got an exciting idea or need a tech partner? Let's talk!
   </p>
 </div>
@@ -78,7 +78,7 @@
       <td align="center" width="280">
         <h3>📦 Boghcheh</h3>
         <p><small>Handicrafts E-Commerce Hub</small></p>
-        <img src="https://skillicons.dev/icons?i=react,tailwind,python&theme=dark" height="25" alt="tech" /><br><br>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,python,git&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://boghche.com/">
           <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Boghcheh" />
         </a>
@@ -159,7 +159,6 @@
 <h3 align="center">📊 GitHub Analytics & Achievements</h3>
 
 <div align="center">
-  <!-- GitHub Trophies for gamification -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lxlnimalxl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Nima's Trophies" />
   </a>
