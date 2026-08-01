@@ -1,102 +1,134 @@
 <!-- 
-======================================================================
-🔥 ADVANCED, CUSTOM-BUILT GITHUB PROFILE FOR NIMA ROUNAGHI 🔥
-======================================================================
+=========================================================================================
+🏆 SEYYED NIMA ROUNAGHI - MASTER GITHUB PROFILE ARCHITECTURE 🏆
+=========================================================================================
+- Role: Full-Stack Software Engineer & Tech Entrepreneur
+- Location: Iran (Available for Global Remote)
+- University: University of Birjand (Computer Engineering)
+- Core: Python, Django, React, Next.js, E-Commerce, UI/UX
+=========================================================================================
 -->
 
+<!-- ========================================== -->
+<!-- 1. HERO SECTION & DYNAMIC GREETING         -->
+<!-- ========================================== -->
 <div align="center">
-  <!-- Dynamic Waving Hand -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="70" />
   
+  <br>
+  <!-- Animated 3D Waving Hand -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="80" />
   <br><br>
 
-  <!-- High-End Typing SVG Banner -->
+  <!-- Premium Typing Animation Banner (Custom Hex Colors) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=2000&color=F8A040&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Seyyed+Nima+Rounaghi;Software+Engineer+%26+Full-Stack+Developer;Founder+of+Megabyte+System+Development;Computer+Engineering+Student+at+Birjand+University;Crafting+Scalable+Business+Solutions;Available+for+Global+Remote+Projects+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=850&height=60&lines=Hi+there%2C+I'm+Seyyed+Nima+Rounaghi;Full-Stack+Software+Engineer+%26+Architect;Founder+of+Megabyte+System+Development;Computer+Engineering+Scholar+%40+Birjand+University;Crafting+Scalable+%26+High-Performance+Solutions;Available+for+International+Remote+Contracts+%F0%9F%8C%8E" alt="Nima Rounaghi Typing SVG" />
   </a>
 
-  <p align="center">
-    <br>
-    <i><b>"Transforming complex business challenges into elegant, high-performance digital architectures."</b></i>
+  <!-- Executive Summary Subtitle -->
+  <p align="center" style="font-size: 16px;">
+    <i>
+      <b>"Bridging the critical gap between elegant digital design, robust backend architecture, and measurable business growth."</b>
+    </i>
   </p>
   
   <br>
 
-  <!-- Custom Navigation Menu -->
-  <p align="center">
-    <a href="#about-me"><b>👨‍💻 About Me</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#ventures"><b>🚀 Startups</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#projects"><b>💼 Client Projects</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#skills"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#academic"><b>🏆 Academic</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#stats"><b>📈 Analytics</b></a>
-  </p>
+  <!-- High-End Navigation Bar -->
+  <div style="background-color: #0D1117; padding: 10px; border-radius: 8px;">
+    <p align="center">
+      <a href="#about"><img src="https://img.shields.io/badge/👨‍💻_About_Me-0D1117?style=for-the-badge&logoColor=white" alt="About" /></a> &nbsp;
+      <a href="#ventures"><img src="https://img.shields.io/badge/🚀_Startups-0D1117?style=for-the-badge&logoColor=white" alt="Startups" /></a> &nbsp;
+      <a href="#portfolio"><img src="https://img.shields.io/badge/💼_Client_Projects-0D1117?style=for-the-badge&logoColor=white" alt="Projects" /></a> &nbsp;
+      <a href="#tech-stack"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-0D1117?style=for-the-badge&logoColor=white" alt="Tech" /></a> &nbsp;
+      <a href="#analytics"><img src="https://img.shields.io/badge/📈_Analytics-0D1117?style=for-the-badge&logoColor=white" alt="Stats" /></a>
+    </p>
+  </div>
+
+  <br>
+
+  <!-- Professional Social & Contact Badges -->
+  <a href="mailto:nimarounaghi11@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nima-rounaghi/">
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ma3ter_learning/">
+    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
 </div>
 
-<br><br>
+<br><br><br>
 
----
-
-<h2 id="about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="30"/> Executive Summary & About Me</h2>
-
-<table width="100%" border="0" cellpadding="10">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a <strong>Computer Engineering student</strong> at the University of Birjand and a highly driven <strong>Full-Stack Software Engineer</strong> and <strong>Business Founder</strong>. Operating out of a business incubator, I bridge the critical gap between technical execution and business strategy.</p>
-      
-      <p>Unlike traditional developers, I focus on the end-to-end product lifecycle. From architecting robust backends using <strong>Python & Django</strong> to designing pixel-perfect, high-converting interfaces with modern Frontend tools, my goal is to deliver software that drives revenue and user engagement.</p>
-      
-      <h3>🎯 Current Focus:</h3>
-      <ul>
-        <li>Scaling <strong>Megabyte System Development</strong> as a registered business entity.</li>
-        <li>Architecting secure, multi-vendor e-commerce platforms.</li>
-        <li>Mastering advanced backend system design and algorithmic problem solving.</li>
-        <li>Deploying secure local payment gateways and regulatory-compliant platforms.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="top">
-      <br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="120" />
-      <br><br>
-      <a href="mailto:nimarounaghi11@gmail.com">
-        <img src="https://img.shields.io/badge/Let's_Talk_Business-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <br><br>
-      <a href="https://www.linkedin.com/in/nima-rounaghi/">
-        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
----
-
-<h2 id="ventures"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Business" width="30"/> Startups & Business Ventures</h2>
-
-<p>Beyond writing code, I actively build and manage technology businesses, handling everything from technical infrastructure to regulatory compliance.</p>
+<!-- ========================================== -->
+<!-- 2. EXECUTIVE SUMMARY & ABOUT ME            -->
+<!-- ========================================== -->
+<h2 id="about">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Dev" width="35"/> 
+  Who Am I? (The Architect Behind the Code)
+</h2>
+<hr>
 
 <table width="100%" border="0" cellpadding="15">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Megabyte System Development</h3>
-      <p><em>Founder & Technical Lead</em></p>
-      <p>A registered computer services and software development firm operating out of a local business incubator. We provide end-to-end digital solutions for businesses.</p>
+    <td width="65%" valign="top">
+      <p>I am a <strong>5th-semester Computer Engineering student</strong> at the University of Birjand and a highly driven <strong>Full-Stack Developer</strong>. But more than just a coder, I am a <strong>Tech Entrepreneur</strong>.</p>
+      
+      <p>Operating directly out of a business incubator, I manage end-to-end product lifecycles. From architecting scalable backend systems in <strong>Python & Django</strong>, resolving complex Git synchronization conflicts with collaborating developers, to designing pixel-perfect, high-converting interfaces using modern Frontend frameworks.</p>
+      
+      <h3>🎯 Core Focus Areas:</h3>
       <ul>
-        <li>Secured regulatory trust certifications (Enamad).</li>
-        <li>Deployed local bank payment processing systems.</li>
-        <li>Manage a team and collaborate closely with specialized developers.</li>
+        <li><strong>Enterprise Software:</strong> Scaling <em>Megabyte System Development</em> and deploying secure, regulatory-compliant platforms (Enamad/Payment Gateways).</li>
+        <li><strong>E-Commerce Mastery:</strong> Architecting multi-vendor hubs and niche markets (like gemstones and handicrafts) with deep WooCommerce data integrations.</li>
+        <li><strong>Algorithmic Efficiency:</strong> Applying advanced Linear Algebra and structured programming logic to real-world software bottlenecks.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>💎 Jana Gem Platform</h3>
-      <p><em>Creator & Architect</em></p>
-      <p>A specialized gemstone jewelry e-commerce platform built for high-end retail and product marketing.</p>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="150" />
+      <br><br>
+      <i>"Good code solves problems. Great architecture creates new business opportunities."</i>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ========================================== -->
+<!-- 3. BUSINESS VENTURES & STARTUPS            -->
+<!-- ========================================== -->
+<h2 id="ventures">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Business" width="35"/> 
+  Startups & Business Ventures
+</h2>
+<hr>
+
+<p>I don't just write scripts; I build and manage fully operational tech businesses. I handle technical infrastructure, team leadership, and executive strategy.</p>
+
+<table width="100%" border="1" cellpadding="20" cellspacing="0" bordercolor="#30363D" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0D1117">
+      <h3 align="center">🏢 Megabyte System Development</h3>
+      <p align="center"><em>Founder & Technical Lead</em></p>
+      <hr style="border: 1px solid #21262D;">
+      <p>A registered tech and computer services entity deployed out of a regional business incubator. We deliver comprehensive digital transformation for traditional businesses.</p>
       <ul>
-        <li>Integrated complex WooCommerce product data CSV configurations.</li>
-        <li>Implemented electronic commerce badges and secure gateways.</li>
-        <li>Driven by targeted social media and video marketing strategies.</li>
+        <li>Led the complete deployment of local business entity infrastructure.</li>
+        <li>Secured regulatory trust certifications (Enamad) for enterprise clients.</li>
+        <li>Successfully integrated and hardened local bank payment processing systems.</li>
+        <li>Managed executive transitions and streamlined a 3-person core partnership for maximum efficiency.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0D1117">
+      <h3 align="center">💎 Jana Gem Platform</h3>
+      <p align="center"><em>Creator & Lead Architect</em></p>
+      <hr style="border: 1px solid #21262D;">
+      <p>A premium, specialized e-commerce ecosystem dedicated to the high-end gemstone jewelry market, optimized for massive conversion rates.</p>
+      <ul>
+        <li>Architected domain registration and infrastructure deployment.</li>
+        <li>Engineered automated WooCommerce product data configurations via complex CSV integrations.</li>
+        <li>Implemented electronic commerce badges (June 2026).</li>
+        <li>Directed targeted Instagram video marketing campaigns to drive organic traffic.</li>
       </ul>
     </td>
   </tr>
@@ -104,70 +136,90 @@
 
 <br><br>
 
----
+<!-- ========================================== -->
+<!-- 4. PREMIUM PORTFOLIO & CASE STUDIES        -->
+<!-- ========================================== -->
+<h2 id="portfolio">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35"/> 
+  Premium Client Projects & Web Architecture
+</h2>
+<hr>
 
-<h2 id="projects"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30"/> Premium Client & Corporate Projects</h2>
+<p>A curated showcase of live, production-grade applications and corporate portals I have designed, developed, and successfully launched.</p>
 
-<p>A curated selection of production-grade platforms I have architected, developed, and launched for corporate clients across various industries.</p>
-
-<table width="100%" border="1" cellpadding="15" cellspacing="0" bordercolor="#30363D">
-  <!-- ROW 1 -->
+<!-- Project Row 1 -->
+<table width="100%" border="0" cellpadding="15">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>📦 Boghcheh</h3>
-      <p><small>Handicrafts E-Commerce Hub</small></p>
-      <p align="left"><small>A dedicated web platform tailored for regional handicrafts, featuring advanced Git-based collaboration and repository management.</small></p>
-      <img src="https://skillicons.dev/icons?i=python,django,git&theme=dark" height="25" alt="Tech" /><br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Box" width="50" />
+      <h3>Boghcheh</h3>
+      <p><small>Regional Handicrafts Hub</small></p>
+      <p align="left"><small>A dedicated platform empowering local artisans. Managed via a strict local Git repository collaboration workflow.</small></p>
+      <img src="https://skillicons.dev/icons?i=python,django,git&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="https://boghche.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
+    
     <td width="33%" align="center" valign="top">
-      <h3>🤖 Media Hoosh</h3>
-      <p><small>Tech & AI Services Platform</small></p>
-      <p align="left"><small>A modern, high-performance platform offering advanced artificial intelligence and technological services to businesses.</small></p>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,js&theme=dark" height="25" alt="Tech" /><br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" />
+      <h3>Media Hoosh</h3>
+      <p><small>AI & Tech Services Platform</small></p>
+      <p align="left"><small>A modern portal delivering advanced AI solutions and tech services. High-performance UI/UX design.</small></p>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="https://mediahoosh.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
+
     <td width="33%" align="center" valign="top">
-      <h3>🏗️ Khavar Powder</h3>
-      <p><small>Industrial Corporate Portal</small></p>
-      <p align="left"><small>Comprehensive corporate web presence for Industries Powdersazan Khavaran, including meticulously designed multi-page corporate catalogs.</small></p>
-      <img src="https://skillicons.dev/icons?i=wordpress,figma,html&theme=dark" height="25" alt="Tech" /><br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Factory.png" alt="Factory" width="50" />
+      <h3>Khavar Powder</h3>
+      <p><small>Corporate Industrial Portal</small></p>
+      <p align="left"><small>Official web presence for Industries Powdersazan Khavaran. Included meticulous design of multi-page corporate catalogs and executive team profiles.</small></p>
+      <img src="https://skillicons.dev/icons?i=wordpress,figma,ps&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="http://khavarpowderco.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
   </tr>
-  <!-- ROW 2 -->
+</table>
+
+<br>
+
+<!-- Project Row 2 -->
+<table width="100%" border="0" cellpadding="15">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>⛏️ Havin Mine Co</h3>
-      <p><small>Corporate Mining Business</small></p>
-      <p align="left"><small>A B2B industrial platform designed to showcase mining operations, ensuring high availability and professional UI/UX.</small></p>
-      <img src="https://skillicons.dev/icons?i=css,js,wordpress&theme=dark" height="25" alt="Tech" /><br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Pick.png" alt="Pick" width="50" />
+      <h3>Havin Mine Co</h3>
+      <p><small>B2B Mining Business</small></p>
+      <p align="left"><small>A corporate industrial platform designed to showcase vast mining operations with high availability and a professional, investor-ready UI/UX.</small></p>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="https://havinmineco.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
+    
     <td width="33%" align="center" valign="top">
-      <h3>🏭 Nooshab Sanat</h3>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="50" />
+      <h3>Nooshab Sanat</h3>
       <p><small>Industrial Manufacturing</small></p>
-      <p align="left"><small>An optimized, scalable digital storefront and corporate profile for a major player in the industrial manufacturing sector.</small></p>
-      <img src="https://skillicons.dev/icons?i=figma,html,css&theme=dark" height="25" alt="Tech" /><br><br>
+      <p align="left"><small>An optimized digital storefront and robust corporate profile serving as the primary digital touchpoint for a major manufacturing entity.</small></p>
+      <img src="https://skillicons.dev/icons?i=wordpress,js,css&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="https://nooshabsanat.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
+
     <td width="33%" align="center" valign="top">
-      <h3>💍 Lathe Gemstone</h3>
-      <p><small>International E-Commerce</small></p>
-      <p align="left"><small>A globally-facing gemstone retail platform with optimized performance, secure checkouts, and premium design language.</small></p>
-      <img src="https://skillicons.dev/icons?i=wordpress,js,react&theme=dark" height="25" alt="Tech" /><br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ring.png" alt="Ring" width="50" />
+      <h3>Lathe Gemstone</h3>
+      <p><small>Global E-Commerce</small></p>
+      <p align="left"><small>An internationally-facing luxury retail platform featuring optimized performance, secure global checkout flows, and premium design.</small></p>
+      <img src="https://skillicons.dev/icons?i=wordpress,react,tailwind&theme=dark" height="28" alt="Tech" /><br><br>
       <a href="https://lathegemstone.com/">
-        <img src="https://img.shields.io/badge/Live_Deployment-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
+        <img src="https://img.shields.io/badge/View_Live_Site-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live" />
       </a>
     </td>
   </tr>
@@ -175,67 +227,49 @@
 
 <br><br>
 
----
+<!-- ========================================== -->
+<!-- 5. TECH STACK & ENGINEERING ARSENAL        -->
+<!-- ========================================== -->
+<h2 id="tech-stack">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35"/> 
+  The Engineering Arsenal & Tech Matrix
+</h2>
+<hr>
 
-<h2 id="skills"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30"/> Technical Arsenal & Core Competencies</h2>
-
-<p>My toolkit is constantly evolving. I leverage modern frameworks, AI coding assistants, and industry-standard version control to build maintainable, clean code.</p>
+<p>I employ a rigorous, modern technology stack. From writing native C++ algorithms to designing scalable Django architectures and integrating AI coding assistants.</p>
 
 <table width="100%" border="0" cellpadding="10">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>⚙️ Backend & Architecture</h3>
-      <p>I build secure, scalable, and modular server-side applications.</p>
+      <p><small>Python, Django, C++, System Design</small></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,django,cpp,mysql&perline=6" alt="Backend Skills" />
-      </a>
-      <br><br>
-      <h3>🎨 Frontend & UI/UX Design</h3>
-      <p>Creating responsive, intuitive, and conversion-focused interfaces.</p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs&perline=6" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=python,django,cpp,mysql,sqlite,linux&perline=3" alt="Backend Skills" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tools, DevOps & AI</h3>
-      <p>Leveraging advanced tools for version control, continuous integration, and rapid prototyping.</p>
+    <td width="50%" align="center" valign="top">
+      <h3>🎨 Frontend & UI/UX</h3>
+      <p><small>React, Next.js, Tailwind, JavaScript</small></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&perline=6" alt="Tools" />
-      </a>
-      <br><br>
-      <h3>🖌️ Design & Content Cms</h3>
-      <p>Translating client visions into digital reality.</p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,xd,ps,wordpress&perline=6" alt="Design Tools" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=3" alt="Frontend Skills" />
       </a>
     </td>
   </tr>
-</table>
-
-<br><br>
-
----
-
-<h2 id="academic"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30"/> Academic Excellence & Open Source</h2>
-
-<p>I believe a strong theoretical foundation in Computer Science is vital for writing efficient algorithms and building complex systems.</p>
-
-<table width="100%" border="0" cellpadding="10">
   <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li><strong>Birjand Computer Programming Contest League (2024 - 2025):</strong> Active participant in competitive programming seasons, solving complex algorithmic challenges under strict time constraints.</li>
-        <li><strong>Advanced Mathematics & Algorithms:</strong> Deep understanding of Linear Algebra and Structured Programming to optimize software architecture.</li>
-        <li><strong>Open Source Contributions:</strong> Architecting and maintaining academic-level software systems.</li>
-      </ul>
+    <td width="50%" align="center" valign="top">
       <br>
-      <h4>🔍 Featured Open-Source Repositories:</h4>
-      <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=F8A040&title_color=F8A040&text_color=c9d1d9" alt="Pet Shop Repo" width="300" />
+      <h3>🛠️ DevOps, Git & Tools</h3>
+      <p><small>GitHub, Git Collab, Postman, AI Assistants</small></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash,ubuntu&perline=3" alt="Tools" />
       </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=F8A040&title_color=F8A040&text_color=c9d1d9" alt="Bus Tracker Repo" width="300" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h3>🖌️ CMS & Creative Suites</h3>
+      <p><small>WordPress, WooCommerce, Figma, Photoshop</small></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=wordpress,figma,xd,ps,ai,pr&perline=3" alt="Creative" />
       </a>
     </td>
   </tr>
@@ -243,80 +277,140 @@
 
 <br><br>
 
----
+<!-- ========================================== -->
+<!-- 6. ACADEMICS & OPEN SOURCE                 -->
+<!-- ========================================== -->
+<h2 id="academic">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Graduation%20Cap.png" alt="Graduation" width="35"/> 
+  Academic Excellence & Open Source
+</h2>
+<hr>
 
-<h2 id="stats"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Analytics" width="30"/> GitHub Analytics & Activity Tracker</h2>
+<table width="100%" border="0" cellpadding="15">
+  <tr>
+    <td width="100%" valign="top">
+      <p>A strong theoretical foundation is non-negotiable for writing optimized, production-ready code. My academic journey at the <strong>University of Birjand</strong> deeply influences my architectural decisions.</p>
+      
+      <ul>
+        <li><strong>🏆 Birjand Computer Programming Contest League (2024 - 2025):</strong> Active veteran in highly competitive programming seasons. Solving intense algorithmic challenges under extreme time limits.</li>
+        <li><strong>📐 Advanced Mathematics:</strong> Leveraging deep understanding of University-level Linear Algebra and advanced calculus to optimize structural algorithms and AI data models.</li>
+        <li><strong>🤖 AI Integration:</strong> Early adopter of premium conversational AI and coding assistants to exponentially increase development speed and ensure zero-bug deployments.</li>
+      </ul>
+      
+      <br>
+      <h3 align="center">🔍 Featured University & Open-Source Projects:</h3>
+      <div align="center">
+        <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" alt="Pet Shop Repo" width="380" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" alt="Bus Tracker Repo" width="380" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!-- CUSTOM HAND-MADE STATS TABLE -->
+<br><br>
+
+<!-- ========================================== -->
+<!-- 7. GITHUB ANALYTICS (CUSTOM BUILT)         -->
+<!-- ========================================== -->
+<h2 id="analytics">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Analytics" width="35"/> 
+  GitHub Analytics & Achievements
+</h2>
+<hr>
+
+<p align="center">Data-driven performance metrics reflecting my consistent dedication to coding and architecture.</p>
+
+<!-- EXACT RECREATION OF THE CUSTOM UI YOU REQUESTED -->
 <div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" style="background-color: #0D1117; border-radius: 10px;">
+  <table border="0" cellpadding="25" cellspacing="0" style="background-color: #0D1117; border-radius: 12px; border: 1px solid #30363D;">
     <tr>
-      <td align="center" width="200" style="border-right: 1px solid #30363D;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Contributions" width="60" />
-        <h2 style="color: #58A6FF; margin: 10px 0;">243</h2>
-        <p style="color: #8B949E; margin: 0;">Total Contributions</p>
-        <p style="color: #3FB950; font-size: 12px; margin-top: 5px;">May 8, 2021 - Present</p>
+      <td align="center" width="220" style="border-right: 1px solid #30363D;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Contributions" width="70" />
+        <h1 style="color: #58A6FF; margin: 15px 0; font-family: 'Courier New', monospace;">243</h1>
+        <p style="color: #8B949E; margin: 0; font-size: 14px;">Total Contributions</p>
+        <p style="color: #3FB950; font-size: 11px; margin-top: 8px;">May 8, 2021 - Present</p>
       </td>
-      <td align="center" width="200" style="border-right: 1px solid #30363D;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="60" />
-        <h2 style="color: #D29922; margin: 10px 0;">1</h2>
-        <p style="color: #F8A040; margin: 0; font-weight: bold;">Current Streak</p>
-        <p style="color: #3FB950; font-size: 12px; margin-top: 5px;">Aug 1</p>
+      
+      <td align="center" width="220" style="border-right: 1px solid #30363D;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="70" />
+        <h1 style="color: #D29922; margin: 15px 0; font-family: 'Courier New', monospace;">1</h1>
+        <p style="color: #F8A040; margin: 0; font-size: 14px; font-weight: 800;">Current Streak</p>
+        <p style="color: #3FB950; font-size: 11px; margin-top: 8px;">Aug 1</p>
       </td>
-      <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Medal" width="60" />
-        <h2 style="color: #58A6FF; margin: 10px 0;">10</h2>
-        <p style="color: #58A6FF; margin: 0;">Longest Streak</p>
-        <p style="color: #3FB950; font-size: 12px; margin-top: 5px;">Aug 11, 2025 - Aug 20, 2025</p>
+      
+      <td align="center" width="220">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Medal" width="70" />
+        <h1 style="color: #58A6FF; margin: 15px 0; font-family: 'Courier New', monospace;">10</h1>
+        <p style="color: #58A6FF; margin: 0; font-size: 14px;">Longest Streak</p>
+        <p style="color: #3FB950; font-size: 11px; margin-top: 8px;">Aug 11, 2025 - Aug 20, 2025</p>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <!-- Interactive Dynamic Stats widgets -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lxlnimalxl&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=F8A040&title_color=F8A040&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lxlnimalxl&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" alt="GitHub Global Stats" />
   
   <br><br>
   
-  <!-- Profile Views Custom Badge -->
-  <img src="https://komarev.com/ghpvc/?username=lxlnimalxl&color=F8A040&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <!-- Custom Colored Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=lxlnimalxl&color=58A6FF&style=for-the-badge&label=GLOBAL+PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
 
 <br><br>
 
----
+<!-- ========================================== -->
+<!-- 8. FUN FACTS & EASTER EGGS                 -->
+<!-- ========================================== -->
+<h2 id="extras">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="35"/> 
+  Beyond the Code (Fun Facts)
+</h2>
+<hr>
 
-<!-- FOOTER AND SUPPORT SECTION -->
+<details>
+  <summary><b style="font-size: 16px; cursor: pointer;">✨ Click to reveal some fun facts about me!</b></summary>
+  <br>
+  <blockquote>
+    <p>🌟 <b>Astrology & Timelines:</b> I have a deep interest in astrology, particularly in analyzing birth charts to predict timelines for business success and personal milestones.</p>
+    <p>📊 <b>Presentation Master:</b> I love using cutting-edge tools like the Gamma app to auto-generate beautiful, interactive presentations in record time.</p>
+    <p>🎓 <b>The Ultimate Balancing Act:</b> I actively balance troubleshooting complex Git repo conflicts with backend colleagues, managing my incubator office space, preparing for brutal university linear algebra exams, and running e-commerce marketing campaigns. <i>Sleep is optional!</i></p>
+  </blockquote>
+</details>
+
+<br><br>
+
+<!-- ========================================== -->
+<!-- 9. FOOTER & SUPPORT CTA                    -->
+<!-- ========================================== -->
+<hr style="border: 2px solid #30363D;">
+<br>
+
 <div align="center">
-  <h2>Support My Architecture & Workflow 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" alt="Star" width="35" align="center" />
+  <h2>Support My Digital Architecture 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" alt="Star" width="40" align="center" />
   </h2>
   
-  <p style="max-width: 600px; line-height: 1.6; color: #8B949E;">
-    Building robust systems and managing ventures takes passion and dedication. If you found my repositories useful, learned something from my code, or simply appreciate high-quality digital craftsmanship, please consider giving my projects a <strong>Star 🌟</strong> and <strong>Following</strong> me on GitHub!
+  <p style="max-width: 700px; line-height: 1.8; color: #8B949E; font-size: 15px;">
+    Building enterprise-level systems and managing multiple tech ventures takes immense passion, caffeine, and dedication. If you found my repositories useful, learned something from my code architecture, or simply appreciate high-quality digital craftsmanship, please consider giving my projects a <strong>Star 🌟</strong> and <strong>Following</strong> me here on GitHub! 
   </p>
 
   <br>
-
-  <!-- Interactive Accordion for fun -->
-  <details>
-    <summary><b>✨ Click here for a fun fact!</b></summary>
-    <p><i>"I balance managing multiple tech ventures and e-commerce platforms while crushing Linear Algebra exams at university. Coding isn't just a job; it's a lifestyle!"</i></p>
-  </details>
-
-  <br><br>
   
   <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Copyright.png" alt="Copyright" width="20" align="center"/> 
-    <small>2026 Seyyed Nima Rounaghi | Designed with logic and creativity.</small>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Copyright.png" alt="Copyright" width="22" align="center"/> 
+    <small><b>2026 Seyyed Nima Rounaghi | Engineered with strict logic and bold creativity.</b></small>
   </p>
 </div>
 
-<!-- 
-======================================================================
-🔥 END OF README CODE
-======================================================================
--->
+<!-- ==================================================================================== -->
+<!-- 🔥 END OF NIMA'S MEGA README.MD - DEPLOY AND CONQUER 🔥                              -->
+<!-- ==================================================================================== -->
