@@ -1,198 +1,183 @@
 <div align="center">
 
-  <!-- Dynamic Profile Header -->
-  <a href="https://github.com/lxlnimalxl">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Nima%20Rounaghi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Crafting%20Premium%20Digital%20Experiences%20%F0%9F%9A%80&descAlignY=55&descSize=20" width="100%" alt="Header" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="60" />
+  
+  <h1 align="center">Hi there, I'm Nima Rounaghi</h1>
+  
+  <h3 align="center">Crafting Premium Digital Experiences That Drive Results 🚀</h3>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
-
-  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Frontend+Developer;UI%2FUX+%26+Creative+Designer;E-Commerce+%26+Business+Solutions+Architect;Available+for+International+Remote+Projects+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Frontend+Developer;UI%2FUX+%26+Creative+Designer;E-Commerce+%26+WordPress+Specialist;Available+for+International+Remote+Projects+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b><i>Bridging the gap between elegant design and robust technical architecture.</i></b>
+    <strong>Bridging the gap between elegant design, robust technical architecture, and real business value.</strong>
   </p>
 
-  <!-- Social Icons -->
-  <p align="center">
-    <a href="mailto:nimarounaghi11@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/nima-rounaghi/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/ma3ter_learning/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+</div>
+
+---
+
+<h3 align="center">💡 About Me & My Vision</h3>
+
+<p align="center">
+  I am a Computer Engineering student and a dedicated <strong>Full-Stack & Freelance Developer</strong> based in Iran. I specialize in helping startups and enterprise businesses build scalable, high-converting web applications. I don't just write code; I solve complex business problems through intuitive <strong>UI/UX design</strong> and <strong>high-performance software architecture</strong>.
+</p>
+
+<div align="center">
+  <p>
+    🌍 <strong>Open for:</strong> International remote work, freelance contracts, and open-source collaborations.<br>
+    🌱 <strong>Currently mastering:</strong> Advanced React/Next.js patterns, Python Backend Architectures (Django), and Scalable Systems.<br>
+    🤝 <strong>Let's connect:</strong> Got an exciting idea or need a tech partner? Let's talk!
   </p>
 </div>
 
-<br/>
-
-## 👨‍💻 The Vision & Value Proposition
-
-> *"I don't just write code; I solve business problems through intuitive design and high-performance development."*
-
-As a dual-threat **Full-Stack Developer** and **UI/UX Strategist**, I specialize in helping startups and established businesses build scalable, high-converting web applications. My background in Computer Engineering allows me to architect complex systems, while my eye for design ensures those systems are user-friendly and aesthetically premium.
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3>🌍 Open For:</h3>
-      <ul>
-        <li>International Remote Contracts</li>
-        <li>Freelance Web Development (End-to-End)</li>
-        <li>Open-source Collaborations</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌱 Currently Exploring:</h3>
-      <ul>
-        <li>Advanced <b>React & Next.js</b> Patterns</li>
-        <li><b>Python</b> Backend Architectures</li>
-        <li>Modern E-Commerce Optimization</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## ⚡ Technical Arsenal
-
 <div align="center">
-  <p>The modern tools and technologies I use to build scalable products.</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css&perline=6" alt="Frontend Skills" />
+  <a href="mailto:nimarounaghi11@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
   </a>
-  <br/>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,cpp,wordpress,git,github&perline=6" alt="Backend & Tools" />
+  <a href="https://www.linkedin.com/in/nima-rounaghi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
-  <br/>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps&perline=3" alt="Design Skills" />
+  <a href="https://www.instagram.com/ma3ter_learning/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="Instagram" />
   </a>
 </div>
 
-<br/>
+<br />
 
-## 💼 Premium Client Projects
+---
 
-<p align="center">A selection of live businesses I have <b>designed</b>, <b>developed</b>, and <b>successfully launched</b>.</p>
+<h3 align="center">⚡ Tech Stack & Arsenal</h3>
+<p align="center">The modern tools and technologies I use to build scalable, high-performance products.</p>
 
 <div align="center">
-  <table align="center" border="0" cellpadding="15" cellspacing="0" width="100%">
-    <!-- Row 1 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,django,cpp,wordpress,figma,xd,ps,git,github&perline=8" alt="Nima's Skills" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<h3 align="center">🌐 Premium Client Projects</h3>
+<p align="center">A curated selection of live businesses I have designed, developed, and successfully launched.</p>
+
+<div align="center">
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="center" width="50%">
-        <h2>💎 Jana Gem</h2>
-        <p><i>Premium Jewelry E-Commerce</i></p>
+      <td align="center" width="280">
+        <h3>💎 Jana Gem</h3>
+        <p><small>Premium Jewelry E-Commerce</small></p>
+        <img src="https://skillicons.dev/icons?i=wordpress,js,css&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://janagem.ir/">
-          <img src="https://img.shields.io/badge/Live_Preview-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Jana Gem" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Jana Gem" />
         </a>
       </td>
-      <td align="center" width="50%">
-        <h2>📦 Boghcheh</h2>
-        <p><i>Handicrafts E-Commerce Hub</i></p>
+      <td align="center" width="280">
+        <h3>📦 Boghcheh</h3>
+        <p><small>Handicrafts E-Commerce Hub</small></p>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,python&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://boghche.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Boghcheh" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Boghcheh" />
         </a>
       </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
-      <td align="center" width="50%">
-        <h2>🤖 Media Hoosh</h2>
-        <p><i>Tech & AI Services Platform</i></p>
+      <td align="center" width="280">
+        <h3>🤖 Media Hoosh</h3>
+        <p><small>Tech & AI Services Platform</small></p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://mediahoosh.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Media Hoosh" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Media Hoosh" />
         </a>
       </td>
-      <td align="center" width="50%">
-        <h2>⛏️ Havin Mine Co</h2>
-        <p><i>Corporate Mining Business</i></p>
+    </tr>
+    <tr>
+      <td align="center" width="280">
+        <h3>⛏️ Havin Mine Co</h3>
+        <p><small>Corporate Mining Business</small></p>
+        <img src="https://skillicons.dev/icons?i=wordpress,figma&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://havinmineco.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Havin Mine" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Havin Mine" />
         </a>
       </td>
-    </tr>
-    <!-- Row 3 -->
-    <tr>
-      <td align="center" width="50%">
-        <h2>🏭 Nooshab Sanat</h2>
-        <p><i>Industrial Manufacturing</i></p>
+      <td align="center" width="280">
+        <h3>🏭 Nooshab Sanat</h3>
+        <p><small>Industrial Manufacturing</small></p>
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://nooshabsanat.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-EF4444?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Nooshab Sanat" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Nooshab Sanat" />
         </a>
       </td>
-      <td align="center" width="50%">
-        <h2>🏗️ Khavar Powder</h2>
-        <p><i>Industrial Corporate Website</i></p>
+      <td align="center" width="280">
+        <h3>🏗️ Khavar Powder</h3>
+        <p><small>Industrial Corporate Website</small></p>
+        <img src="https://skillicons.dev/icons?i=wordpress,figma,ps&theme=dark" height="25" alt="tech" /><br><br>
         <a href="http://khavarpowderco.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Khavar Powder" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Khavar Powder" />
         </a>
       </td>
     </tr>
-    <!-- Row 4 (Centered single item) -->
+  </table>
+  
+  <br/>
+  
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="center" colspan="2">
-        <h2>💍 Lathe Gemstone</h2>
-        <p><i>International Gemstone E-Commerce</i></p>
+      <td align="center" width="400">
+        <h3>💍 Lathe Gemstone</h3>
+        <p><small>International Gemstone E-Commerce</small></p>
+        <img src="https://skillicons.dev/icons?i=wordpress,js,tailwind&theme=dark" height="25" alt="tech" /><br><br>
         <a href="https://lathegemstone.com/">
-          <img src="https://img.shields.io/badge/Live_Preview-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lathe Gemstone" />
+          <img src="https://img.shields.io/badge/Live_Preview-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lathe Gemstone" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-## 💻 Open Source Repositories
-
-<div align="center">
-  <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=radical&hide_border=true&bg_color=0D1117" alt="Pet Shop Repo" />
-  </a>
-  <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=radical&hide_border=true&bg_color=0D1117" alt="Bus Tracker Repo" />
-  </a>
-</div>
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxlnimalxl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxlnimalxl&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
+<br />
 
 ---
 
+<h3 align="center">💻 Open Source & Repositories</h3>
+<p align="center">A look into my academic and personal technical projects.</p>
+
+<div align="center">
+  <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=Pet-Shop-Management-System-CPP&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="Pet Shop Repo" />
+  </a>
+  <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lxlnimalxl&repo=University-Bus-Tracker-Driver-Client-&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" alt="Bus Tracker Repo" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<h3 align="center">📊 GitHub Analytics & Achievements</h3>
+
+<div align="center">
+  <!-- GitHub Trophies for gamification -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lxlnimalxl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Nima's Trophies" />
+  </a>
+</div>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lxlnimalxl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxlnimalxl&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+</div>
+
+<br />
+
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=lxlnimalxl&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+    <img src="https://komarev.com/ghpvc/?username=lxlnimalxl&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
   </p>
   
-  <h3>Let's Build Something Amazing Together! 🤝</h3>
-  <p>If you're looking for a dedicated developer to bring your vision to life, <a href="mailto:nimarounaghi11@gmail.com"><b>shoot me an email</b></a>.</p>
-  <p><i>Don't forget to drop a ⭐ if you found my repositories useful!</i></p>
+  <h3>Support My Work! ⭐</h3>
+  <p>If you like my projects or find my architecture helpful, please consider giving them a <strong>Star</strong> 🌟 and <strong>Following</strong> me on GitHub! It means a lot to me.</p>
 </div>
-```eof
-### تغییراتی که دادم و دلیلشون:
-1. **هدر داینامیک (Capsule Render):** یک بنر متحرک بسیار زیبا با طیف رنگی آبی-بنفش به بالای پروفایلت اضافه کردم. این کار پروفایلت رو از حالت یک متن ساده خارج می‌کنه و حس یک "برند شخصی" رو می‌ده.
-2. **کپی‌رایتینگ تجاری:** جملات رو از حالت "من یک دانشجو هستم" به حالت "من یک توسعه‌دهنده و طراح استراتژیک هستم که مشکلات بیزینسی رو حل می‌کنم" تغییر دادم. کارفرماهای خارجی عاشق کلماتی مثل `Architecture`, `Scalable`, و `Business Solutions` هستند.
-3. **ساختار پروژه‌ها (مهم‌ترین بخش):** جدول قبلی در گوشی‌های موبایل ممکن بود به هم بریزه. جدول رو ۲ ستونه کردم تا هم بزرگ‌تر دیده بشن و هم ریسپانسیو باشن. رنگ دکمه‌های `Live Preview` رو برای هر پروژه اختصاصی و رنگارنگ کردم تا به شدت چشم‌نواز بشن.
-4. **دسته‌بندی مهارت‌ها:** آیکون‌های مهارت‌ها رو به ۳ دسته منظم (فرانت‌‌اند، بک‌اند/ابزارها، و دیزاین) تقسیم کردم. این نشون می‌ده تو یک فرد منظم و ساختارمند هستی.
-5. **تم رنگی آمار گیت‌هاب:** تم `tokyonight` رو به `radical` تغییر دادم که با پس‌زمینه دارک گیت‌هاب بی‌نظیر می‌شه و رنگ‌های نئونی (صورتی و آبی) داره که ظاهر فوق‌العاده خفنی به پروفایل می‌ده.
-
-این کد رو کپی کن و نتیجه رو ببین! مطمئن باش با این پروفایل، هر کارفرمایی روی پیجت بیاد، متوجه می‌شه با یک حرفه‌ای طرفه. 🚀 موفق باشی!
