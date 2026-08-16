@@ -10,7 +10,6 @@
 🏆 SEYYED NIMA ROUNAGHI - FULL-STACK ENGINEER & TECH ARCHITECT 🏆
 =========================================================================================
 -->
-
 <br>
 
 <div align="center">
