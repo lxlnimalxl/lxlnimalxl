@@ -11,7 +11,6 @@
 =========================================================================================
 -->
 <br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="80" />
   <br><br>
