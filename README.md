@@ -153,7 +153,7 @@ Always open to technical inquiries, collaboration on complex system architecture
   </a>
   &nbsp;
   <a href="https://t.me/lxlnimalxl">
-    <img src="https://img.shields.io/badge/Telegram-@nima__rounaghi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@lxlnimalxl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
