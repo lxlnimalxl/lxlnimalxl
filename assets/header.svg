@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0d1527" />
+      <stop offset="100%" stop-color="#05080f" />
+    </linearGradient>
+
+    <!-- Neon Cyan & Violet Glow -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#9b51e0" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#9b51e0" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Filter for Glow Effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.85; }
+      50% { transform: scale(1.02); opacity: 1; filter: drop-shadow(0 0 10px rgba(0, 242, 254, 0.6)); }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-100%); }
+      100% { transform: translateY(1000%); }
+    }
+    @keyframes floatParticle {
+      0% { transform: translateY(0px) translateX(0px); opacity: 0.3; }
+      50% { transform: translateY(-15px) translateX(10px); opacity: 0.8; }
+      100% { transform: translateY(0px) translateX(0px); opacity: 0.3; }
+    }
+    @keyframes borderGlow {
+      0%, 100% { stroke: #00f2fe; }
+      50% { stroke: #9b51e0; }
+    }
+
+    .terminal-window {
+      fill: url(#bgGrad);
+      stroke: url(#borderGrad);
+      stroke-width: 1.5;
+      rx: 16;
+    }
+    .term-dot-red { fill: #ff5f56; }
+    .term-dot-yellow { fill: #ffbd2e; }
+    .term-dot-green { fill: #27c93f; }
+    
+    .text-title {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', Roboto, sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      fill: #ffffff;
+    }
+    .text-gradient {
+      fill: url(#accentGrad);
+      filter: url(#subtleGlow);
+    }
+    .text-subtitle {
+      font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+      font-size: 15px;
+      font-weight: 500;
+      fill: #7ee787;
+    }
+    .text-meta {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+      font-size: 13px;
+      fill: #8b949e;
+    }
+    .text-badge {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #00f2fe;
+    }
+    .particle {
+      animation: floatParticle 6s ease-in-out infinite;
+    }
+    .status-dot {
+      fill: #3fb950;
+      filter: url(#glow);
+    }
+  </style>
+
+  <!-- Window Container -->
+  <rect x="5" y="5" width="890" height="250" class="terminal-window" />
+
+  <!-- Window Title Bar -->
+  <path d="M 5 21 C 5 12 12 5 21 5 L 879 5 C 888 5 895 12 895 21 L 895 44 L 5 44 Z" fill="#0e1726" />
+  <line x1="5" y1="44" x2="895" y2="44" stroke="#1f293d" stroke-width="1" />
+
+  <!-- Mac Window Dots -->
+  <circle cx="28" cy="24" r="6" class="term-dot-red" />
+  <circle cx="48" cy="24" r="6" class="term-dot-yellow" />
+  <circle cx="68" cy="24" r="6" class="term-dot-green" />
+
+  <!-- Window Title Text -->
+  <text x="450" y="28" fill="#586e88" font-family="'JetBrains Mono', monospace" font-size="12" text-anchor="middle">
+    nima@systems-arch ~ zsh
+  </text>
+
+  <!-- Status indicator on right -->
+  <circle cx="830" cy="24" r="4" class="status-dot" />
+  <text x="842" y="28" fill="#3fb950" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">ONLINE</text>
+
+  <!-- Ambient Grid / Decorative Nodes -->
+  <g opacity="0.15" stroke="#4facfe" stroke-width="0.5">
+    <line x1="120" y1="70" x2="860" y2="70" stroke-dasharray="4 6" />
+    <line x1="120" y1="140" x2="860" y2="140" stroke-dasharray="4 6" />
+    <line x1="120" y1="210" x2="860" y2="210" stroke-dasharray="4 6" />
+  </g>
+
+  <!-- Glowing Particles -->
+  <circle cx="780" cy="90" r="2" fill="#00f2fe" class="particle" style="animation-delay: 0s;" />
+  <circle cx="840" cy="160" r="2.5" fill="#9b51e0" class="particle" style="animation-delay: 2s;" />
+  <circle cx="720" cy="200" r="1.5" fill="#4facfe" class="particle" style="animation-delay: 4s;" />
+
+  <!-- Terminal Command Prompt -->
+  <text x="40" y="80" class="text-subtitle">
+    <tspan fill="#58a6ff">nima</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#bc8cff">systems</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#7ee787">~</tspan><tspan fill="#e6edf3">$</tspan> <tspan fill="#d2a8ff">cat</tspan> <tspan fill="#a5d6ff">profile.json</tspan>
+  </text>
+
+  <!-- Main Headline Name -->
+  <text x="40" y="130" class="text-title">
+    Seyyed Nima Rounaghi
+    <tspan class="text-gradient">.dev</tspan>
+  </text>
+
+  <!-- Tagline / Title -->
+  <text x="42" y="166" font-family="'Segoe UI', sans-serif" font-size="16" fill="#c9d1d9" font-weight="500">
+    Software Engineer &amp; Systems Architect <tspan fill="#58a6ff">|</tspan> C++ &amp; High-Performance Computing <tspan fill="#58a6ff">|</tspan> Full-Stack
+  </text>
+
+  <!-- Quick Info Pills -->
+  <g transform="translate(42, 195)">
+    <!-- Pill 1: University -->
+    <rect x="0" y="0" width="200" height="28" rx="6" fill="#161b22" stroke="#30363d" />
+    <circle cx="14" cy="14" r="4" fill="#58a6ff" />
+    <text x="26" y="18" fill="#e6edf3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">
+      University of Birjand (CS)
+    </text>
+
+    <!-- Pill 2: Algorithms -->
+    <rect x="215" y="0" width="185" height="28" rx="6" fill="#161b22" stroke="#30363d" />
+    <circle cx="229" cy="14" r="4" fill="#bc8cff" />
+    <text x="241" y="18" fill="#e6edf3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">
+      Algorithmic Contest League
+    </text>
+
+    <!-- Pill 3: Venture -->
+    <rect x="415" y="0" width="220" height="28" rx="6" fill="#161b22" stroke="#30363d" />
+    <circle cx="429" cy="14" r="4" fill="#00f2fe" />
+    <text x="441" y="18" fill="#e6edf3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">
+      Megabyte System Development
+    </text>
+  </g>
+</svg>
