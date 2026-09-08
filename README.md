@@ -152,7 +152,7 @@ Always open to technical inquiries, collaboration on complex system architecture
     <img src="https://img.shields.io/badge/LinkedIn-Nima_Rounaghi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://t.me/nima_rounaghi">
+  <a href="https://t.me/lxlnimalxl">
     <img src="https://img.shields.io/badge/Telegram-@nima__rounaghi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
