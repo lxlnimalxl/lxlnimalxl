@@ -1,12 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 100" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 110" width="100%" height="100%">
   <defs>
-    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="neonLaserWave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f2fe" />
       <stop offset="50%" stop-color="#a855f7" />
       <stop offset="100%" stop-color="#ec4899" />
     </linearGradient>
   </defs>
-  <rect width="950" height="100" rx="14" fill="#04060b" />
-  <path d="M 0,70 Q 237,25 475,65 T 950,55 L 950,100 L 0,100 Z" fill="#0b1120" opacity="0.8" />
-  <path d="M 0,78 Q 237,35 475,70 T 950,65" fill="none" stroke="url(#waveLine)" stroke-width="2.5" />
+
+  <style>
+    @keyframes waveMove1 {
+      0% { d: path("M 0,75 Q 237,30 475,70 T 950,60 L 950,110 L 0,110 Z"); }
+      50% { d: path("M 0,65 Q 237,80 475,55 T 950,75 L 950,110 L 0,110 Z"); }
+      100% { d: path("M 0,75 Q 237,30 475,70 T 950,60 L 950,110 L 0,110 Z"); }
+    }
+    .wave-anim { animation: waveMove1 6s ease-in-out infinite; }
+  </style>
+
+  <rect width="950" height="110" rx="14" fill="#04060b" />
+  <path d="M 0,75 Q 237,30 475,70 T 950,60 L 950,110 L 0,110 Z" fill="#0c1426" opacity="0.9" class="wave-anim" />
+  <path d="M 0,75 Q 237,30 475,70 T 950,60" fill="none" stroke="url(#neonLaserWave)" stroke-width="2.5" />
 </svg>
