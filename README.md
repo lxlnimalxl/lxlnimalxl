@@ -1,7 +1,7 @@
 <div id="top" align="center">
 
-  <!-- 100% Self-Hosted 3D Holographic Hero Banner (Zero Filtered External APIs) -->
-  <img src="assets/header.svg" width="100%" alt="Seyed Nima Rounaghi 3D Holographic Banner" />
+  <!-- 100% Self-Hosted 3D Holographic Hero Banner (Zero External Dependencies) -->
+  <img src="assets/header.svg" width="100%" alt="Seyed Nima Rounaghi Banner" />
 
   <br><br>
 
@@ -26,10 +26,10 @@
 
 ---
 
-### ðŸ† Verified GitHub Achievements Showcase
+### Verified GitHub Achievements Showcase
 
 <div align="center">
-  <!-- 3D Gold Trophy Pedestal Showcase -->
+  <!-- 3D Gold Trophy Pedestal Showcase (Zero Broken Unicode) -->
   <img src="assets/achievements.svg" width="100%" alt="GitHub Gold Achievements Showcase" />
 </div>
 
@@ -37,10 +37,10 @@
 
 ---
 
-### ðŸ“Š 3D Repository Activity & Cadence Metrics
+### Repository Activity & Cadence Metrics
 
 <div align="center">
-  <!-- 100% Native 3D Metric Cards -->
+  <!-- 100% Self-Hosted Vector Stats Infographic -->
   <img src="assets/stats.svg" width="100%" alt="Activity Metrics & Cadence" />
 </div>
 
@@ -48,10 +48,10 @@
 
 ---
 
-### âš¡ Technical Radar & 3D Bento Matrix
+### Technical Radar & Architecture Matrix
 
 <div align="center">
-  <!-- 3D Bento Grid Architecture Matrix -->
+  <!-- Bento Grid Technical Matrix -->
   <img src="assets/skills.svg" width="100%" alt="Technical Radar & Architecture" />
 </div>
 
@@ -59,12 +59,12 @@
 
 ---
 
-### ðŸš€ Featured Production Repositories & Engineering Showcases
+### Featured Production Repositories & Engineering Showcases
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸ¾ <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">Pet Shop Management System</a></h3>
+      <h3>Pet Shop Management System</h3>
       <p><b>Core Stack:</b> <code>C++20</code> &nbsp;|&nbsp; <b>Architecture:</b> <code>OOP / SOLID Design</code></p>
       <p>An enterprise-grade console system built with strict object-oriented paradigms, binary file persistence, role-based access control, and real-time transaction processing.</p>
       <p>
@@ -74,7 +74,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸ¨ <a href="https://github.com/lxlnimalxl/Hotel-Reservation-System-CPP">Hotel Reservation Platform</a></h3>
+      <h3>Hotel Reservation Platform</h3>
       <p><b>Core Stack:</b> <code>C++</code> &nbsp;|&nbsp; <b>Paradigm:</b> <code>Modular Systems</code></p>
       <p>High-performance booking platform handling dynamic room allocation engines, multi-tiered seasonal pricing algorithms, and customer ledger management.</p>
       <p>
@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸ’Ž <a href="https://github.com/lxlnimalxl/Portfolio">Personal Developer Portfolio</a></h3>
+      <h3>Personal Developer Portfolio</h3>
       <p><b>Core Stack:</b> <code>HTML5</code> <code>CSS3 Grid/Flex</code> <code>JavaScript ES6+</code></p>
       <p>Modern responsive developer portfolio engineered with fluid typography, dark mode contrast tokens, and accessible semantic UI architecture.</p>
       <p>
@@ -96,7 +96,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>âš¡ <a href="https://github.com/lxlnimalxl/html-css-javascript-projects">100+ Vanilla Web Labs</a></h3>
+      <h3>100+ Vanilla Web Labs</h3>
       <p><b>Core Stack:</b> <code>Vanilla JavaScript</code> <code>DOM APIs</code> <code>CSS Animations</code></p>
       <p>Comprehensive interactive collection of 100+ algorithmic tools, UI component micro-libraries, canvas experiments, and dynamic web calculators.</p>
       <p>
@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸšŒ <a href="https://github.com/lxlnimalxl/University-Bus-Tracker-Driver-Client-">University Transit Telemetry Client</a></h3>
+      <h3>University Transit Telemetry Client</h3>
       <p><b>Core Stack:</b> <code>JavaScript</code> <code>Geolocation APIs</code> <code>IoT Telemetry</code></p>
       <p>Driver-side vehicle tracking interface broadcasting real-time GPS coordinates and route status to campus transit dispatch servers.</p>
       <p>
@@ -118,7 +118,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>ðŸ’¬ <a href="https://github.com/lxlnimalxl/WebSocket-Direct-Chat-Client-Vanilla-JS">WebSocket Real-Time Chat Engine</a></h3>
+      <h3>WebSocket Real-Time Chat Engine</h3>
       <p><b>Core Stack:</b> <code>WebSocket Protocol</code> <code>Vanilla JS</code> <code>Event Streams</code></p>
       <p>Zero-dependency direct real-time communication interface built on raw WebSocket event lifecycles, connection heartbeat monitors, and instant message rendering.</p>
       <p>
@@ -135,10 +135,10 @@
 ---
 
 <div align="center">
-  <!-- 3D Perspective Wave Footer -->
+  <!-- 3D Horizon Wave Footer -->
   <img src="assets/footer.svg" width="100%" alt="Footer Wave" />
   <br><br>
   <a href="#top" style="text-decoration: none; color: #38bdf8; font-family: monospace; font-size: 13px; font-weight: 700;">
-    â–² BACK TO TOP
+    BACK TO TOP
   </a>
 </div>
