@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 90" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 100" width="100%" height="100%">
   <defs>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.8" />
+    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
     </linearGradient>
   </defs>
-  <rect width="950" height="90" rx="12" fill="#070a12" />
-  <path d="M 0,60 Q 237,20 475,55 T 950,45 L 950,90 L 0,90 Z" fill="#0d1322" opacity="0.6" />
-  <path d="M 0,68 Q 237,30 475,60 T 950,55" fill="none" stroke="url(#waveGrad)" stroke-width="2" />
+  <rect width="950" height="100" rx="14" fill="#04060b" />
+  <path d="M 0,70 Q 237,25 475,65 T 950,55 L 950,100 L 0,100 Z" fill="#0b1120" opacity="0.8" />
+  <path d="M 0,78 Q 237,35 475,70 T 950,65" fill="none" stroke="url(#waveLine)" stroke-width="2.5" />
 </svg>
