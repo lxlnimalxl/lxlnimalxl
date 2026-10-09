@@ -1,157 +1,163 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 330" width="100%" height="100%">
   <defs>
-    <!-- Background Gradients -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070a12" />
-      <stop offset="50%" stop-color="#0d1322" />
+    <!-- Master Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04060b" />
+      <stop offset="40%" stop-color="#080e1a" />
+      <stop offset="80%" stop-color="#0b1326" />
       <stop offset="100%" stop-color="#05070d" />
     </linearGradient>
 
-    <!-- Neon Cyan to Purple Gradient -->
-    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Glowing Text Gradient -->
+    <linearGradient id="brandTitle" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="50%" stop-color="#4facfe" />
-      <stop offset="100%" stop-color="#a855f7" />
+      <stop offset="35%" stop-color="#38bdf8" />
+      <stop offset="70%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
     </linearGradient>
 
-    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f6d365" />
-      <stop offset="100%" stop-color="#fda085" />
+    <!-- Gold Accent Gradient -->
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
     </linearGradient>
 
-    <!-- Glowing Filters -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
-    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
-    <radialGradient id="meshOrb1" cx="15%" cy="30%" r="45%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.22" />
+    <!-- Ambient Orbs -->
+    <radialGradient id="orbCyan" cx="18%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.28" />
       <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
     </radialGradient>
 
-    <radialGradient id="meshOrb2" cx="85%" cy="70%" r="55%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25" />
+    <radialGradient id="orbPurple" cx="82%" cy="65%" r="45%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.30" />
       <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
     </radialGradient>
+
+    <radialGradient id="orbPink" cx="50%" cy="90%" r="35%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Soft Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <filter id="subtle" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
   </defs>
 
   <style>
-    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
-    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.7; transform: scale(1); }
-      50% { opacity: 1; transform: scale(1.02); }
-    }
-    
-    @keyframes scanline {
-      0% { transform: translateY(0); }
-      100% { transform: translateY(300px); }
-    }
-    
-    @keyframes blink {
+    @keyframes cursorBlink {
       0%, 49% { opacity: 1; }
       50%, 100% { opacity: 0; }
     }
+    .cursor-blink { animation: cursorBlink 0.9s infinite; }
 
-    .cursor { animation: blink 1s infinite; fill: #00f2fe; }
-    .badge-pill { rx: 14; ry: 14; }
+    @keyframes liveBeacon {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.4); opacity: 0.4; }
+    }
+    .beacon { transform-origin: center; animation: liveBeacon 2s ease-in-out infinite; }
   </style>
 
-  <!-- Background Base -->
-  <rect width="950" height="300" rx="16" fill="url(#bgGrad)" stroke="#1f293d" stroke-width="1.5" />
+  <!-- Base Card Frame -->
+  <rect width="950" height="330" rx="20" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5" />
 
-  <!-- Ambient Light Orbs -->
-  <rect width="950" height="300" rx="16" fill="url(#meshOrb1)" />
-  <rect width="950" height="300" rx="16" fill="url(#meshOrb2)" />
+  <!-- Ambient Lighting Layer -->
+  <rect width="950" height="330" rx="20" fill="url(#orbCyan)" />
+  <rect width="950" height="330" rx="20" fill="url(#orbPurple)" />
+  <rect width="950" height="330" rx="20" fill="url(#orbPink)" />
 
-  <!-- Cybernetic Grid Overlay -->
-  <g opacity="0.08" stroke="#ffffff" stroke-width="0.75">
-    <line x1="0" y1="60" x2="950" y2="60" />
-    <line x1="0" y1="120" x2="950" y2="120" />
-    <line x1="0" y1="180" x2="950" y2="180" />
-    <line x1="0" y1="240" x2="950" y2="240" />
-    <line x1="160" y1="0" x2="160" y2="300" />
-    <line x1="320" y1="0" x2="320" y2="300" />
-    <line x1="480" y1="0" x2="480" y2="300" />
-    <line x1="640" y1="0" x2="640" y2="300" />
-    <line x1="800" y1="0" x2="800" y2="300" />
+  <!-- High-Tech Coordinate Grid -->
+  <g opacity="0.07" stroke="#ffffff" stroke-width="0.8">
+    <line x1="0" y1="50" x2="950" y2="50" />
+    <line x1="0" y1="110" x2="950" y2="110" />
+    <line x1="0" y1="170" x2="950" y2="170" />
+    <line x1="0" y1="230" x2="950" y2="230" />
+    <line x1="0" y1="290" x2="950" y2="290" />
+    <line x1="190" y1="0" x2="190" y2="330" />
+    <line x1="380" y1="0" x2="380" y2="330" />
+    <line x1="570" y1="0" x2="570" y2="330" />
+    <line x1="760" y1="0" x2="760" y2="330" />
   </g>
 
-  <!-- Tech Corner Markers -->
-  <g stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6">
-    <path d="M 25 45 L 25 25 L 45 25" />
-    <path d="M 925 45 L 925 25 L 905 25" />
-    <path d="M 25 255 L 25 275 L 45 275" />
-    <path d="M 925 255 L 925 275 L 905 275" />
+  <!-- Decorative Corner HUD Brackets -->
+  <g stroke="#00f2fe" stroke-width="2.5" fill="none" opacity="0.75">
+    <path d="M 24 50 L 24 24 L 50 24" />
+    <path d="M 926 50 L 926 24 L 900 24" />
+    <path d="M 24 280 L 24 306 L 50 306" />
+    <path d="M 926 280 L 926 306 L 900 306" />
   </g>
 
-  <!-- Status Indicator Badge (Top Right) -->
-  <g transform="translate(680, 30)">
-    <rect width="220" height="32" rx="16" fill="#0c1626" stroke="#00f2fe" stroke-width="1" stroke-opacity="0.4" />
-    <circle cx="20" cy="16" r="5" fill="#10b981" filter="url(#subtleGlow)">
-      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <text x="35" y="21" class="mono" font-size="12" font-weight="600" fill="#e2e8f0">AVAILABLE FOR WORK</text>
-  </g>
-
-  <!-- Terminal Path Header -->
-  <g transform="translate(55, 52)">
-    <text class="mono" font-size="13" fill="#64748b" font-weight="500">
-      <tspan fill="#00f2fe">~/nima</tspan> <tspan fill="#475569">â¯</tspan> <tspan fill="#a855f7">whoami</tspan>
+  <!-- Window Header Bar -->
+  <g transform="translate(50, 38)">
+    <circle cx="0" cy="0" r="5.5" fill="#ef4444" opacity="0.85" />
+    <circle cx="18" cy="0" r="5.5" fill="#eab308" opacity="0.85" />
+    <circle cx="36" cy="0" r="5.5" fill="#10b981" opacity="0.85" />
+    <text x="60" y="4" class="font-mono" font-size="12" font-weight="600" fill="#64748b">
+      lxlnimalxl@production-node <tspan fill="#00f2fe">~/architect</tspan> <tspan fill="#a855f7">(master)</tspan>
     </text>
   </g>
 
-  <!-- Main Name Title -->
-  <g transform="translate(55, 125)">
-    <!-- Shadow Glow for text -->
-    <text class="sans" font-size="46" font-weight="900" fill="url(#accentGrad)" letter-spacing="0.5" filter="url(#subtleGlow)">
+  <!-- Live Status Capsule (Top Right) -->
+  <g transform="translate(685, 26)">
+    <rect width="215" height="34" rx="17" fill="#091422" stroke="#00f2fe" stroke-width="1.2" stroke-opacity="0.6" />
+    <circle cx="20" cy="17" r="5" fill="#10b981" class="beacon" />
+    <circle cx="20" cy="17" r="4" fill="#10b981" filter="url(#subtle)" />
+    <text x="36" y="22" class="font-mono" font-size="11.5" font-weight="700" fill="#e2e8f0" letter-spacing="0.5">OPEN TO WORK / FREELANCE</text>
+  </g>
+
+  <!-- Hero Name Typography -->
+  <g transform="translate(50, 132)">
+    <text class="font-sans" font-size="48" font-weight="900" fill="url(#brandTitle)" letter-spacing="-0.5" filter="url(#subtle)">
       SEYED NIMA ROUNAGHI
     </text>
   </g>
 
-  <!-- Subtitle / Role Typing -->
-  <g transform="translate(55, 168)">
-    <text class="mono" font-size="17" font-weight="600" fill="#94a3b8" letter-spacing="0.5">
+  <!-- Subtitle Tagline -->
+  <g transform="translate(50, 178)">
+    <text class="font-mono" font-size="17" font-weight="600" fill="#94a3b8" letter-spacing="0.3">
       <tspan fill="#38bdf8">Frontend Architect</tspan>
       <tspan fill="#475569"> â€¢ </tspan>
       <tspan fill="#c084fc">UI/UX Technologist</tspan>
       <tspan fill="#475569"> â€¢ </tspan>
-      <tspan fill="#34d399">Creative Developer</tspan>
+      <tspan fill="#34d399">Creative Systems Engineer</tspan>
     </text>
-    <rect x="585" y="-14" width="8" height="18" class="cursor" />
+    <rect x="635" y="-15" width="8" height="20" fill="#00f2fe" class="cursor-blink" />
   </g>
 
-  <!-- Interactive Tech Tags (Bottom Pills) -->
-  <g transform="translate(55, 215)">
-    <!-- Pill 1: React & Web -->
+  <!-- Interactive Focus Pills (Bottom Grid) -->
+  <g transform="translate(50, 230)">
+    <!-- Pill 1: React & Next -->
     <g transform="translate(0, 0)">
-      <rect width="170" height="34" class="badge-pill" fill="#0f172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.5" />
-      <text x="85" y="22" text-anchor="middle" class="sans" font-size="12" font-weight="700" fill="#38bdf8">âš¡ REACT &amp; MODERN WEB</text>
+      <rect width="185" height="38" rx="19" fill="#0b1324" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="92" y="24" text-anchor="middle" class="font-sans" font-size="12.5" font-weight="700" fill="#38bdf8">âš¡ REACT 19 &amp; TYPESCRIPT</text>
     </g>
 
     <!-- Pill 2: UI/UX & Design Systems -->
-    <g transform="translate(185, 0)">
-      <rect width="185" height="34" class="badge-pill" fill="#0f172a" stroke="#c084fc" stroke-width="1" stroke-opacity="0.5" />
-      <text x="92" y="22" text-anchor="middle" class="sans" font-size="12" font-weight="700" fill="#c084fc">ðŸŽ¨ DESIGN SYSTEMS &amp; UX</text>
+    <g transform="translate(200, 0)">
+      <rect width="195" height="38" rx="19" fill="#140f24" stroke="#c084fc" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="97" y="24" text-anchor="middle" class="font-sans" font-size="12.5" font-weight="700" fill="#c084fc">ðŸŽ¨ DESIGN SYSTEMS &amp; UX</text>
     </g>
 
-    <!-- Pill 3: C++ & High-Perf -->
-    <g transform="translate(385, 0)">
-      <rect width="185" height="34" class="badge-pill" fill="#0f172a" stroke="#34d399" stroke-width="1" stroke-opacity="0.5" />
-      <text x="92" y="22" text-anchor="middle" class="sans" font-size="12" font-weight="700" fill="#34d399">âš™ï¸ C++ &amp; SYSTEM LOGIC</text>
+    <!-- Pill 3: C++ & High-Performance -->
+    <g transform="translate(410, 0)">
+      <rect width="195" height="38" rx="19" fill="#0a1818" stroke="#34d399" stroke-width="1.2" stroke-opacity="0.6" />
+      <text x="97" y="24" text-anchor="middle" class="font-sans" font-size="12.5" font-weight="700" fill="#34d399">âš™ï¸ C++20 &amp; HIGH-PERF OOP</text>
     </g>
 
-    <!-- Pill 4: GitHub Gold Tiers -->
-    <g transform="translate(585, 0)">
-      <rect width="210" height="34" class="badge-pill" fill="#1e180a" stroke="#f6d365" stroke-width="1.2" stroke-opacity="0.8" />
-      <text x="105" y="22" text-anchor="middle" class="sans" font-size="12" font-weight="800" fill="url(#goldGrad)">ðŸ† GITHUB GOLD ACHIEVER</text>
+    <!-- Pill 4: Gold Tiers Unlocked -->
+    <g transform="translate(620, 0)">
+      <rect width="230" height="38" rx="19" fill="#1c1404" stroke="#fbbf24" stroke-width="1.5" stroke-opacity="0.9" />
+      <text x="115" y="24" text-anchor="middle" class="font-sans" font-size="12.5" font-weight="800" fill="url(#goldText)">ðŸ† GITHUB GOLD TIERS (x128)</text>
     </g>
   </g>
 </svg>
