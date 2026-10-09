@@ -1,71 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 160" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 170" width="100%" height="100%">
   <defs>
-    <linearGradient id="metricCard" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1527" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#080c16" stop-opacity="0.95" />
+    <linearGradient id="metricCard3d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1930" />
+      <stop offset="50%" stop-color="#090e1c" />
+      <stop offset="100%" stop-color="#05070f" />
     </linearGradient>
 
-    <linearGradient id="cyanLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f2fe" />
-      <stop offset="100%" stop-color="#38bdf8" />
-    </linearGradient>
-
-    <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#a855f7" />
-      <stop offset="100%" stop-color="#ec4899" />
-    </linearGradient>
-
-    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fbbf24" />
-      <stop offset="100%" stop-color="#f59e0b" />
-    </linearGradient>
-
-    <linearGradient id="greenLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981" />
-      <stop offset="100%" stop-color="#34d399" />
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
     </linearGradient>
   </defs>
 
   <style>
     .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     .font-mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+
+    @keyframes floatCard1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+    @keyframes floatCard2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+    @keyframes floatCard3 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+    @keyframes floatCard4 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-5px); } }
+
+    .c-anim1 { animation: floatCard1 3.5s ease-in-out infinite; }
+    .c-anim2 { animation: floatCard2 3.8s ease-in-out infinite 0.5s; }
+    .c-anim3 { animation: floatCard3 3.6s ease-in-out infinite 1s; }
+    .c-anim4 { animation: floatCard4 4s ease-in-out infinite 1.5s; }
   </style>
 
-  <rect width="950" height="160" rx="16" fill="#05070d" stroke="#1e293b" stroke-width="1.2" />
+  <rect width="950" height="170" rx="18" fill="#04060b" stroke="#1e293b" stroke-width="1.3" />
 
   <!-- Metric 1: Total Repositories -->
-  <g transform="translate(25, 20)">
-    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.3" />
-    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#cyanLine)" />
-    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">PUBLIC &amp; PRIVATE REPOS</text>
-    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#00f2fe">28+</text>
-    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Verified Codebases</text>
+  <g class="c-anim1" transform="translate(25, 22)">
+    <rect width="210" height="126" rx="14" fill="url(#metricCard3d)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.5" />
+    <path d="M 0 14 Q 0 0 14 0 L 196 0 Q 210 0 210 14 L 210 18 L 0 18 Z" fill="#38bdf8" />
+    <text x="18" y="52" class="font-mono" font-size="11.5" font-weight="800" fill="#94a3b8">CODE REPOSITORIES</text>
+    <text x="18" y="98" class="font-sans" font-size="38" font-weight="900" fill="#00f2fe">28+</text>
+    <text x="18" y="124" class="font-mono" font-size="10.5" fill="#64748b">Verified Projects</text>
   </g>
 
   <!-- Metric 2: Pull Shark & Merged PRs -->
-  <g transform="translate(255, 20)">
-    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#a855f7" stroke-width="1" stroke-opacity="0.3" />
-    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#purpleLine)" />
-    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">MERGED PULL REQUESTS</text>
-    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#c084fc">135+</text>
-    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Continuous Merge Cadence</text>
+  <g class="c-anim2" transform="translate(255, 22)">
+    <rect width="210" height="126" rx="14" fill="url(#metricCard3d)" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.5" />
+    <path d="M 0 14 Q 0 0 14 0 L 196 0 Q 210 0 210 14 L 210 18 L 0 18 Z" fill="#a855f7" />
+    <text x="18" y="52" class="font-mono" font-size="11.5" font-weight="800" fill="#94a3b8">MERGED PULL REQUESTS</text>
+    <text x="18" y="98" class="font-sans" font-size="38" font-weight="900" fill="#c084fc">135+</text>
+    <text x="18" y="124" class="font-mono" font-size="10.5" fill="#64748b">Continuous Integration</text>
   </g>
 
   <!-- Metric 3: Gold Achievements -->
-  <g transform="translate(485, 20)">
-    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.4" />
-    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#goldLine)" />
-    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">GOLD BADGES EARNED</text>
-    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#fbbf24">5/5</text>
-    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Max Tiers (128x, 48x, 32x)</text>
+  <g class="c-anim3" transform="translate(485, 22)">
+    <rect width="210" height="126" rx="14" fill="url(#metricCard3d)" stroke="#fbbf24" stroke-width="1.4" stroke-opacity="0.7" />
+    <path d="M 0 14 Q 0 0 14 0 L 196 0 Q 210 0 210 14 L 210 18 L 0 18 Z" fill="#fbbf24" />
+    <text x="18" y="52" class="font-mono" font-size="11.5" font-weight="800" fill="#94a3b8">GOLD BADGES EARNED</text>
+    <text x="18" y="98" class="font-sans" font-size="38" font-weight="900" fill="#fbbf24">5/5</text>
+    <text x="18" y="124" class="font-mono" font-size="10.5" fill="#64748b">Max Tiers (128x, 48x, 32x)</text>
   </g>
 
   <!-- Metric 4: System Architecture -->
-  <g transform="translate(715, 20)">
-    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#10b981" stroke-width="1" stroke-opacity="0.3" />
-    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#greenLine)" />
-    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">STACK ARCHITECTURE</text>
-    <text x="18" y="92" class="font-sans" font-size="34" font-weight="900" fill="#34d399">FULL-STACK</text>
-    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">React â€¢ C++20 â€¢ UI/UX</text>
+  <g class="c-anim4" transform="translate(715, 22)">
+    <rect width="210" height="126" rx="14" fill="url(#metricCard3d)" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.5" />
+    <path d="M 0 14 Q 0 0 14 0 L 196 0 Q 210 0 210 14 L 210 18 L 0 18 Z" fill="#10b981" />
+    <text x="18" y="52" class="font-mono" font-size="11.5" font-weight="800" fill="#94a3b8">SYSTEM EXPERTISE</text>
+    <text x="18" y="98" class="font-sans" font-size="33" font-weight="900" fill="#34d399">FULL-STACK</text>
+    <text x="18" y="124" class="font-mono" font-size="10.5" fill="#64748b">React â€¢ C++20 â€¢ UI/UX</text>
   </g>
 </svg>
