@@ -1,18 +1,14 @@
 <div id="top" align="center">
 
-  <!-- Self-Hosted Cyber Hero Banner -->
+  <!-- 100% Self-Hosted Cyber Header Banner (No External APIs / Never Blocked) -->
   <img src="assets/header.svg" width="100%" alt="Seyed Nima Rounaghi Banner" />
 
   <br><br>
 
-  <!-- Live Status & Quick Philosophy -->
-  <p align="center">
-    <b>Crafting High-Performance Web Applications, Responsive Micro-Interactions & Human-Centered Design Systems.</b>
-  </p>
-
+  <!-- Interactive Quick Links & Direct Connect -->
   <p align="center">
     <a href="mailto:nimarounaghi11@gmail.com">
-      <img src="https://img.shields.io/badge/Direct_Email-nimarounaghi11%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-nimarounaghi11%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/nima-rounaghi/">
@@ -33,6 +29,7 @@
 ### ðŸ† Verified GitHub Achievements Showcase
 
 <div align="center">
+  <!-- 100% Native Vector Gold Trophy Card -->
   <img src="assets/achievements.svg" width="100%" alt="GitHub Gold Achievements Showcase" />
 </div>
 
@@ -40,9 +37,21 @@
 
 ---
 
-### âš¡ Core Engineering & Technical Matrix
+### ðŸ“Š Repository Activity & Cadence Metrics
 
 <div align="center">
+  <!-- 100% Self-Hosted Vector Stats Infographic -->
+  <img src="assets/stats.svg" width="100%" alt="Activity Metrics & Cadence" />
+</div>
+
+<br>
+
+---
+
+### âš¡ Core Engineering Radar & Technology Matrix
+
+<div align="center">
+  <!-- Bento Grid Technical Matrix -->
   <img src="assets/skills.svg" width="100%" alt="Technical Radar & Architecture" />
 </div>
 
@@ -50,17 +59,17 @@
 
 ---
 
-### ðŸš€ Production Repositories & Featured Engineering
+### ðŸš€ Featured Production Repositories & Engineering Showcases
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>ðŸ¾ <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">Pet Shop Management System</a></h3>
-      <p><b>Core Stack:</b> <code>C++20</code> &nbsp;|&nbsp; <b>Architecture:</b> <code>OOP / SOLID Principles</code></p>
-      <p>An enterprise-grade console system built with strict object-oriented paradigms, binary file persistence, role-based access, and real-time transaction processing.</p>
+      <p><b>Core Stack:</b> <code>C++20</code> &nbsp;|&nbsp; <b>Architecture:</b> <code>OOP / SOLID Design</code></p>
+      <p>An enterprise-grade console system built with strict object-oriented paradigms, binary file persistence, role-based access control, and real-time transaction processing.</p>
       <p>
         <a href="https://github.com/lxlnimalxl/Pet-Shop-Management-System-CPP">
-          <img src="https://img.shields.io/badge/View_Architecture-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Code" />
+          <img src="https://img.shields.io/badge/Inspect_Architecture-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Code" />
         </a>
       </p>
     </td>
@@ -70,7 +79,7 @@
       <p>High-performance booking platform handling dynamic room allocation engines, multi-tiered seasonal pricing algorithms, and customer ledger management.</p>
       <p>
         <a href="https://github.com/lxlnimalxl/Hotel-Reservation-System-CPP">
-          <img src="https://img.shields.io/badge/View_Platform-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Code" />
+          <img src="https://img.shields.io/badge/Inspect_Platform-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Code" />
         </a>
       </p>
     </td>
@@ -82,7 +91,7 @@
       <p>Modern responsive developer portfolio engineered with fluid typography, dark mode contrast tokens, and accessible semantic UI architecture.</p>
       <p>
         <a href="https://github.com/lxlnimalxl/Portfolio">
-          <img src="https://img.shields.io/badge/Live_Portfolio-10b981?style=flat-square&logo=html5&logoColor=white" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Live_Showcase-10b981?style=flat-square&logo=html5&logoColor=white" alt="Portfolio" />
         </a>
       </p>
     </td>
@@ -120,22 +129,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
----
-
-### ðŸ“Š Live GitHub Activity & Streak Analytics
-
-<div align="center">
-  <a href="https://github.com/lxlnimalxl">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lxlnimalxl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070a12&title_color=38bdf8&text_color=94a3b8&icon_color=00f2fe&ring_color=a855f7" alt="GitHub Stats" width="48%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/lxlnimalxl">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lxlnimalxl&layout=compact&theme=tokyonight&hide_border=true&bg_color=070a12&title_color=c084fc&text_color=94a3b8" alt="Top Languages" width="48%" />
-  </a>
-</div>
 
 <br>
 
