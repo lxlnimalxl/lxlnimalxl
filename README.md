@@ -1,7 +1,7 @@
 <div id="top" align="center">
 
-  <!-- 100% Self-Hosted Cyber Header Banner (No External APIs / Never Blocked) -->
-  <img src="assets/header.svg" width="100%" alt="Seyed Nima Rounaghi Banner" />
+  <!-- 100% Self-Hosted 3D Holographic Hero Banner (Zero Filtered External APIs) -->
+  <img src="assets/header.svg" width="100%" alt="Seyed Nima Rounaghi 3D Holographic Banner" />
 
   <br><br>
 
@@ -29,7 +29,7 @@
 ### ðŸ† Verified GitHub Achievements Showcase
 
 <div align="center">
-  <!-- 100% Native Vector Gold Trophy Card -->
+  <!-- 3D Gold Trophy Pedestal Showcase -->
   <img src="assets/achievements.svg" width="100%" alt="GitHub Gold Achievements Showcase" />
 </div>
 
@@ -37,10 +37,10 @@
 
 ---
 
-### ðŸ“Š Repository Activity & Cadence Metrics
+### ðŸ“Š 3D Repository Activity & Cadence Metrics
 
 <div align="center">
-  <!-- 100% Self-Hosted Vector Stats Infographic -->
+  <!-- 100% Native 3D Metric Cards -->
   <img src="assets/stats.svg" width="100%" alt="Activity Metrics & Cadence" />
 </div>
 
@@ -48,10 +48,10 @@
 
 ---
 
-### âš¡ Core Engineering Radar & Technology Matrix
+### âš¡ Technical Radar & 3D Bento Matrix
 
 <div align="center">
-  <!-- Bento Grid Technical Matrix -->
+  <!-- 3D Bento Grid Architecture Matrix -->
   <img src="assets/skills.svg" width="100%" alt="Technical Radar & Architecture" />
 </div>
 
@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <!-- Interactive Wave Footer -->
+  <!-- 3D Perspective Wave Footer -->
   <img src="assets/footer.svg" width="100%" alt="Footer Wave" />
   <br><br>
   <a href="#top" style="text-decoration: none; color: #38bdf8; font-family: monospace; font-size: 13px; font-weight: 700;">
