@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 170" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldPlate" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2010" />
+      <stop offset="100%" stop-color="#120e06" />
+    </linearGradient>
+
+    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#ffb703" />
+      <stop offset="100%" stop-color="#fb8500" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="950" height="170" rx="14" fill="#070a12" stroke="#2a2010" stroke-width="1.5" />
+
+  <!-- Badge 1: Pull Shark Gold -->
+  <g transform="translate(30, 20)">
+    <rect width="165" height="130" rx="10" fill="url(#goldPlate)" stroke="#eab308" stroke-width="1.2" />
+    <text x="82" y="48" font-size="34" text-anchor="middle">ðŸ¦ˆ</text>
+    <text x="82" y="78" text-anchor="middle" class="sans" font-size="13" font-weight="800" fill="#fde047">PULL SHARK</text>
+    <rect x="32" y="92" width="100" height="22" rx="11" fill="#713f12" />
+    <text x="82" y="107" text-anchor="middle" class="mono" font-size="11" font-weight="800" fill="#fef08a">GOLD x128</text>
+  </g>
+
+  <!-- Badge 2: Pair Extraordinaire Gold -->
+  <g transform="translate(215, 20)">
+    <rect width="165" height="130" rx="10" fill="url(#goldPlate)" stroke="#eab308" stroke-width="1.2" />
+    <text x="82" y="48" font-size="34" text-anchor="middle">ðŸ‘¯</text>
+    <text x="82" y="78" text-anchor="middle" class="sans" font-size="13" font-weight="800" fill="#fde047">PAIR EXTRA</text>
+    <rect x="32" y="92" width="100" height="22" rx="11" fill="#713f12" />
+    <text x="82" y="107" text-anchor="middle" class="mono" font-size="11" font-weight="800" fill="#fef08a">GOLD x48</text>
+  </g>
+
+  <!-- Badge 3: Galaxy Brain Gold -->
+  <g transform="translate(400, 20)">
+    <rect width="165" height="130" rx="10" fill="url(#goldPlate)" stroke="#eab308" stroke-width="1.2" />
+    <text x="82" y="48" font-size="34" text-anchor="middle">ðŸ§ </text>
+    <text x="82" y="78" text-anchor="middle" class="sans" font-size="13" font-weight="800" fill="#fde047">GALAXY BRAIN</text>
+    <rect x="32" y="92" width="100" height="22" rx="11" fill="#713f12" />
+    <text x="82" y="107" text-anchor="middle" class="mono" font-size="11" font-weight="800" fill="#fef08a">GOLD x32</text>
+  </g>
+
+  <!-- Badge 4: Quickdraw -->
+  <g transform="translate(585, 20)">
+    <rect width="165" height="130" rx="10" fill="#0c1626" stroke="#38bdf8" stroke-width="1.2" />
+    <text x="82" y="48" font-size="34" text-anchor="middle">ðŸŽ¯</text>
+    <text x="82" y="78" text-anchor="middle" class="sans" font-size="13" font-weight="800" fill="#38bdf8">QUICKDRAW</text>
+    <rect x="32" y="92" width="100" height="22" rx="11" fill="#0369a1" />
+    <text x="82" y="107" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#e0f2fe">UNLOCKED</text>
+  </g>
+
+  <!-- Badge 5: YOLO -->
+  <g transform="translate(770, 20)">
+    <rect width="150" height="130" rx="10" fill="#1a0c24" stroke="#c084fc" stroke-width="1.2" />
+    <text x="75" y="48" font-size="34" text-anchor="middle">ðŸ¦¹</text>
+    <text x="75" y="78" text-anchor="middle" class="sans" font-size="13" font-weight="800" fill="#c084fc">YOLO</text>
+    <rect x="25" y="92" width="100" height="22" rx="11" fill="#6b21a8" />
+    <text x="75" y="107" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#fae8ff">UNLOCKED</text>
+  </g>
+</svg>
