@@ -1,29 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 180" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 190" width="100%" height="100%">
   <defs>
-    <linearGradient id="goldPedestal" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#2a1f0a" />
-      <stop offset="50%" stop-color="#191307" />
-      <stop offset="100%" stop-color="#0d0a04" />
+    <linearGradient id="goldPlate3d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c1f0b" />
+      <stop offset="50%" stop-color="#191206" />
+      <stop offset="100%" stop-color="#0c0903" />
     </linearGradient>
 
-    <linearGradient id="goldBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.9" />
-      <stop offset="50%" stop-color="#f59e0b" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#78350f" stop-opacity="0.3" />
+    <linearGradient id="goldRim" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#92400e" />
     </linearGradient>
 
-    <linearGradient id="cyanBadge" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a1829" />
-      <stop offset="100%" stop-color="#050c14" />
-    </linearGradient>
-
-    <linearGradient id="purpleBadge" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e0e29" />
-      <stop offset="100%" stop-color="#0f0714" />
-    </linearGradient>
-
-    <filter id="goldShine" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+    <filter id="goldAura" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
@@ -31,53 +21,81 @@
   <style>
     .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     .font-mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+
+    @keyframes trophyBounce1 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+    @keyframes trophyBounce2 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+    @keyframes trophyBounce3 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+    @keyframes trophyBounce4 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+    @keyframes trophyBounce5 { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+    @keyframes haloSpin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+    .t-anim1 { animation: trophyBounce1 3s ease-in-out infinite; }
+    .t-anim2 { animation: trophyBounce2 3.2s ease-in-out infinite 0.4s; }
+    .t-anim3 { animation: trophyBounce3 3.4s ease-in-out infinite 0.8s; }
+    .t-anim4 { animation: trophyBounce4 3.1s ease-in-out infinite 1.2s; }
+    .t-anim5 { animation: trophyBounce5 3.3s ease-in-out infinite 1.6s; }
+    .halo-rot { transform-origin: 85px 50px; animation: haloSpin 8s linear infinite; }
   </style>
 
-  <!-- Background Base Frame -->
-  <rect width="950" height="180" rx="16" fill="#04060b" stroke="#251a08" stroke-width="1.5" />
+  <rect width="950" height="190" rx="18" fill="#04060b" stroke="#251a08" stroke-width="1.5" />
 
   <!-- Badge 1: Pull Shark Gold (x128) -->
   <g transform="translate(25, 20)">
-    <rect width="170" height="140" rx="12" fill="url(#goldPedestal)" stroke="url(#goldBorder)" stroke-width="1.5" />
-    <text x="85" y="52" font-size="36" text-anchor="middle">ðŸ¦ˆ</text>
-    <text x="85" y="84" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047" letter-spacing="0.5">PULL SHARK</text>
-    <rect x="30" y="98" width="110" height="24" rx="12" fill="#713f12" stroke="#eab308" stroke-width="1" />
-    <text x="85" y="114" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="800" fill="#fef08a">GOLD x128</text>
+    <rect width="170" height="150" rx="14" fill="url(#goldPlate3d)" stroke="url(#goldRim)" stroke-width="1.5" />
+    <circle cx="85" cy="50" r="30" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="6 4" opacity="0.5" class="halo-rot" />
+    <g class="t-anim1">
+      <text x="85" y="58" font-size="38" text-anchor="middle">ðŸ¦ˆ</text>
+    </g>
+    <text x="85" y="94" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047">PULL SHARK</text>
+    <rect x="30" y="108" width="110" height="26" rx="13" fill="#713f12" stroke="#eab308" stroke-width="1.2" />
+    <text x="85" y="125" text-anchor="middle" class="font-mono" font-size="12" font-weight="800" fill="#fef08a">GOLD x128</text>
   </g>
 
   <!-- Badge 2: Pair Extraordinaire Gold (x48) -->
   <g transform="translate(210, 20)">
-    <rect width="170" height="140" rx="12" fill="url(#goldPedestal)" stroke="url(#goldBorder)" stroke-width="1.5" />
-    <text x="85" y="52" font-size="36" text-anchor="middle">ðŸ‘¯</text>
-    <text x="85" y="84" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047" letter-spacing="0.5">PAIR EXTRA</text>
-    <rect x="30" y="98" width="110" height="24" rx="12" fill="#713f12" stroke="#eab308" stroke-width="1" />
-    <text x="85" y="114" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="800" fill="#fef08a">GOLD x48</text>
+    <rect width="170" height="150" rx="14" fill="url(#goldPlate3d)" stroke="url(#goldRim)" stroke-width="1.5" />
+    <circle cx="85" cy="50" r="30" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="6 4" opacity="0.5" class="halo-rot" />
+    <g class="t-anim2">
+      <text x="85" y="58" font-size="38" text-anchor="middle">ðŸ‘¯</text>
+    </g>
+    <text x="85" y="94" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047">PAIR EXTRA</text>
+    <rect x="30" y="108" width="110" height="26" rx="13" fill="#713f12" stroke="#eab308" stroke-width="1.2" />
+    <text x="85" y="125" text-anchor="middle" class="font-mono" font-size="12" font-weight="800" fill="#fef08a">GOLD x48</text>
   </g>
 
   <!-- Badge 3: Galaxy Brain Gold (x32) -->
   <g transform="translate(395, 20)">
-    <rect width="170" height="140" rx="12" fill="url(#goldPedestal)" stroke="url(#goldBorder)" stroke-width="1.5" />
-    <text x="85" y="52" font-size="36" text-anchor="middle">ðŸ§ </text>
-    <text x="85" y="84" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047" letter-spacing="0.5">GALAXY BRAIN</text>
-    <rect x="30" y="98" width="110" height="24" rx="12" fill="#713f12" stroke="#eab308" stroke-width="1" />
-    <text x="85" y="114" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="800" fill="#fef08a">GOLD x32</text>
+    <rect width="170" height="150" rx="14" fill="url(#goldPlate3d)" stroke="url(#goldRim)" stroke-width="1.5" />
+    <circle cx="85" cy="50" r="30" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="6 4" opacity="0.5" class="halo-rot" />
+    <g class="t-anim3">
+      <text x="85" y="58" font-size="38" text-anchor="middle">ðŸ§ </text>
+    </g>
+    <text x="85" y="94" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#fde047">GALAXY BRAIN</text>
+    <rect x="30" y="108" width="110" height="26" rx="13" fill="#713f12" stroke="#eab308" stroke-width="1.2" />
+    <text x="85" y="125" text-anchor="middle" class="font-mono" font-size="12" font-weight="800" fill="#fef08a">GOLD x32</text>
   </g>
 
   <!-- Badge 4: Quickdraw -->
   <g transform="translate(580, 20)">
-    <rect width="170" height="140" rx="12" fill="url(#cyanBadge)" stroke="#0284c7" stroke-width="1.2" />
-    <text x="85" y="52" font-size="36" text-anchor="middle">ðŸŽ¯</text>
-    <text x="85" y="84" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#38bdf8" letter-spacing="0.5">QUICKDRAW</text>
-    <rect x="30" y="98" width="110" height="24" rx="12" fill="#0369a1" stroke="#38bdf8" stroke-width="0.8" />
-    <text x="85" y="114" text-anchor="middle" class="font-mono" font-size="11" font-weight="700" fill="#e0f2fe">&lt; 3s RECORD</text>
+    <rect width="170" height="150" rx="14" fill="#081424" stroke="#0284c7" stroke-width="1.5" />
+    <circle cx="85" cy="50" r="30" fill="none" stroke="#38bdf8" stroke-width="1" stroke-dasharray="6 4" opacity="0.5" class="halo-rot" />
+    <g class="t-anim4">
+      <text x="85" y="58" font-size="38" text-anchor="middle">ðŸŽ¯</text>
+    </g>
+    <text x="85" y="94" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#38bdf8">QUICKDRAW</text>
+    <rect x="30" y="108" width="110" height="26" rx="13" fill="#0369a1" stroke="#38bdf8" stroke-width="1" />
+    <text x="85" y="125" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="700" fill="#e0f2fe">&lt; 3s RECORD</text>
   </g>
 
   <!-- Badge 5: YOLO -->
   <g transform="translate(765, 20)">
-    <rect width="160" height="140" rx="12" fill="url(#purpleBadge)" stroke="#9333ea" stroke-width="1.2" />
-    <text x="80" y="52" font-size="36" text-anchor="middle">ðŸ¦¹</text>
-    <text x="80" y="84" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#c084fc" letter-spacing="0.5">YOLO</text>
-    <rect x="25" y="98" width="110" height="24" rx="12" fill="#6b21a8" stroke="#c084fc" stroke-width="0.8" />
-    <text x="80" y="114" text-anchor="middle" class="font-mono" font-size="11" font-weight="700" fill="#fae8ff">DIRECT MERGE</text>
+    <rect width="160" height="150" rx="14" fill="#180b24" stroke="#9333ea" stroke-width="1.5" />
+    <circle cx="80" cy="50" r="30" fill="none" stroke="#c084fc" stroke-width="1" stroke-dasharray="6 4" opacity="0.5" class="halo-rot" />
+    <g class="t-anim5">
+      <text x="80" y="58" font-size="38" text-anchor="middle">ðŸ¦¹</text>
+    </g>
+    <text x="80" y="94" text-anchor="middle" class="font-sans" font-size="13" font-weight="900" fill="#c084fc">YOLO</text>
+    <rect x="25" y="108" width="110" height="26" rx="13" fill="#6b21a8" stroke="#c084fc" stroke-width="1" />
+    <text x="80" y="125" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="700" fill="#fae8ff">DIRECT MERGE</text>
   </g>
 </svg>
