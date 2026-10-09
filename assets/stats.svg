@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="metricCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1527" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#080c16" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="cyanLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+
+    <linearGradient id="greenLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+  </style>
+
+  <rect width="950" height="160" rx="16" fill="#05070d" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Metric 1: Total Repositories -->
+  <g transform="translate(25, 20)">
+    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.3" />
+    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#cyanLine)" />
+    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">PUBLIC &amp; PRIVATE REPOS</text>
+    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#00f2fe">28+</text>
+    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Verified Codebases</text>
+  </g>
+
+  <!-- Metric 2: Pull Shark & Merged PRs -->
+  <g transform="translate(255, 20)">
+    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#a855f7" stroke-width="1" stroke-opacity="0.3" />
+    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#purpleLine)" />
+    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">MERGED PULL REQUESTS</text>
+    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#c084fc">135+</text>
+    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Continuous Merge Cadence</text>
+  </g>
+
+  <!-- Metric 3: Gold Achievements -->
+  <g transform="translate(485, 20)">
+    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.4" />
+    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#goldLine)" />
+    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">GOLD BADGES EARNED</text>
+    <text x="18" y="92" class="font-sans" font-size="36" font-weight="900" fill="#fbbf24">5/5</text>
+    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">Max Tiers (128x, 48x, 32x)</text>
+  </g>
+
+  <!-- Metric 4: System Architecture -->
+  <g transform="translate(715, 20)">
+    <rect width="210" height="120" rx="12" fill="url(#metricCard)" stroke="#10b981" stroke-width="1" stroke-opacity="0.3" />
+    <path d="M 0 12 Q 0 0 12 0 L 198 0 Q 210 0 210 12 L 210 16 L 0 16 Z" fill="url(#greenLine)" />
+    <text x="18" y="48" class="font-mono" font-size="11.5" font-weight="700" fill="#94a3b8">STACK ARCHITECTURE</text>
+    <text x="18" y="92" class="font-sans" font-size="34" font-weight="900" fill="#34d399">FULL-STACK</text>
+    <text x="18" y="118" class="font-mono" font-size="10.5" fill="#64748b">React â€¢ C++20 â€¢ UI/UX</text>
+  </g>
+</svg>
