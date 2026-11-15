@@ -1,18 +1,36 @@
-# Seyed Nima Rounaghi
-### Senior Frontend Engineer & UI/UX Technologist
-
-Specializing in high-performance web applications, design system architectures, and pixel-precise Figma-to-code implementations. Focused on building responsive, accessible, and mathematically accurate digital products for enterprise clients and high-growth technology companies worldwide.
+# Seyyed Nima Rounaghi
+### Full-Stack Software Engineer & UI/UX Designer | Custom Platforms & Security
 
 [LinkedIn](https://www.linkedin.com/in/nima-rounaghi/) &nbsp;|&nbsp; [Email](mailto:nimarounaghi11@gmail.com) &nbsp;|&nbsp; [Telegram](https://t.me/lxlnimalxl) &nbsp;|&nbsp; [GitHub](https://github.com/lxlnimalxl)
 
 ---
 
-## Executive Summary
+Managing multiple freelancers for a single project—a designer, a developer, and a security expert—is stressful and expensive. Code breaks, designs do not match the final product, and deadlines slip.
 
-- 6+ years of specialized experience translating complex UI/UX designs into production-ready front-end architectures.
-- Deep expertise in modern React ecosystems (React 19, Vite, Next.js), Tailwind CSS v4, and state management paradigms.
-- Proven track record of zero-dependency implementations: Web Audio API synthesis, HTML5 Canvas game engines, and fluid responsive physics.
-- Strong focus on Core Web Vitals, sub-second load times, modular component trees, and clean code hygiene.
+I offer a different approach. I build secure, high-performance platforms from the ground up, handling both creative design and complex engineering under one roof.
+
+Whether you need a custom web application, an automated bot, a high-converting WordPress site, or a complete brand identity overhaul, I deliver production-ready solutions that look great and run flawlessly.
+
+---
+
+## Core Capabilities
+
+- Custom Platform & Web Application Development
+- UI/UX, Logo, and Brand Identity Design
+- Custom Bot Development & Workflow Automation
+- WordPress Site Creation & Performance Optimization
+- Security Auditing & Penetration Testing
+- Hardware Prototyping & Embedded Systems
+
+---
+
+## Technical Stack & Tooling
+
+- **Frontend:** React, Next.js, Vite, JavaScript (ES6+), TypeScript, HTML5/CSS3, Tailwind CSS, Bootstrap
+- **Backend:** Python (Django, FastAPI, Flask), SQLAlchemy, Node.js
+- **Design & Media:** Figma, Adobe Photoshop, Premiere Pro, Canva, CapCut
+- **Infrastructure & Security:** Docker, Linux (LPIC-1), Penetration Testing, Web Security Audits
+- **Hardware / IoT:** Arduino, ESP32, Embedded C/C++
 
 ---
 
@@ -31,21 +49,17 @@ Specializing in high-performance web applications, design system architectures, 
 
 ---
 
-## Technical Competencies
+## Engineering Standard
 
-- **Frontend Core:** JavaScript (ES6+), TypeScript, React 19, Next.js, HTML5 Semantic Architecture, CSS3 / Modern CSS Architecture
-- **Styling & Design Systems:** Tailwind CSS (v3 / v4), CSS Modules, Responsive & Adaptive Layouts, Design Token Management
-- **Interactive & Graphics:** Web Audio API, HTML5 Canvas 2D/3D, SVG Manipulation, Micro-Animations, Glassmorphism & Cybernetic HUDs
-- **Performance & Tooling:** Vite, Webpack, PostCSS, ESLint, Git / GitHub Workflows, Puppeteer Automated Viewport Testing
-- **Systems & Paradigms:** Component-Driven Development, State Machines, REST APIs, Object-Oriented Design (C++ / JS)
+I do not just write code blindly; I design intuitive interfaces and build systems that are secure by default. You get the creative eye of a designer and the rigorous logic of a security-focused engineer in a single technical partner.
 
 ---
 
-## Professional Collaboration & Inquiries
+## Let's Connect
 
-Available for senior contract roles, frontend architecture consulting, and select high-impact international projects.
+Send me a message about what you are trying to build. Let's figure out the smartest and most secure way to get it done.
 
 - **Email:** [nimarounaghi11@gmail.com](mailto:nimarounaghi11@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nima-rounaghi](https://www.linkedin.com/in/nima-rounaghi/)
 - **Telegram:** [@lxlnimalxl](https://t.me/lxlnimalxl)
-- **Location:** Open to Remote Engagements Globally
+- **Availability:** Open to select remote contracts and high-impact international projects.
