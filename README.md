@@ -38,6 +38,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 
 | Project | Domain / Specialization | Core Architecture | Live Demonstration | Repository |
 | :--- | :--- | :--- | :--- | :--- |
+| **Vakil** | International Legal Counsel Platform | React 19, Django 5 REST, Court Fee Engine | [Live Demo](https://lxlnimalxl.github.io/vakil-legal-platform/) | [Source Code](https://github.com/lxlnimalxl/vakil-legal-platform) |
 | **Ashyaneh** | Full-Stack Accommodation Booking | React 19, Django 5 REST, Dual Desktop/Mobile Sim | [Live Demo](https://lxlnimalxl.github.io/ashyaneh-hotel-booking-platform/) | [Source Code](https://github.com/lxlnimalxl/ashyaneh-hotel-booking-platform) |
 | **SocioSphere** | Full-Stack Social Platform | React 19, Django 5 REST, SQLite, Tri-Screen Canvas | [Live Demo](https://lxlnimalxl.github.io/sociosphere-social-platform/) | [Source Code](https://github.com/lxlnimalxl/sociosphere-social-platform) |
 | **Cyber.Game** | Gaming & Entertainment | React 19, Tailwind CSS v4, Web Audio API, Confetti | [Live Demo](https://lxlnimalxl.github.io/cyber-game-landing/) | [Source Code](https://github.com/lxlnimalxl/cyber-game-landing) |
