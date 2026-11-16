@@ -27,7 +27,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 ## Technical Stack & Tooling
 
 - **Frontend:** React, Next.js, Vite, JavaScript (ES6+), TypeScript, HTML5/CSS3, Tailwind CSS, Bootstrap
-- **Backend:** Python (Django, FastAPI, Flask), SQLAlchemy, Node.js
+- **Backend:** Python (Django, FastAPI, Flask), RESTful APIs, SQLAlchemy, Node.js
 - **Design & Media:** Figma, Adobe Photoshop, Premiere Pro, Canva, CapCut
 - **Infrastructure & Security:** Docker, Linux (LPIC-1), Penetration Testing, Web Security Audits
 - **Hardware / IoT:** Arduino, ESP32, Embedded C/C++
@@ -38,6 +38,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 
 | Project | Domain / Specialization | Core Architecture | Live Demonstration | Repository |
 | :--- | :--- | :--- | :--- | :--- |
+| **SocioSphere** | Full-Stack Social Platform | React 19, Django 5 REST, SQLite, Tri-Screen Canvas | [Live Demo](https://lxlnimalxl.github.io/sociosphere-social-platform/) | [Source Code](https://github.com/lxlnimalxl/sociosphere-social-platform) |
 | **Cyber.Game** | Gaming & Entertainment | React 19, Tailwind CSS v4, Web Audio API, Confetti | [Live Demo](https://lxlnimalxl.github.io/cyber-game-landing/) | [Source Code](https://github.com/lxlnimalxl/cyber-game-landing) |
 | **Tactical Strike** | Sci-Fi Warfare Platform | React 19, Tailwind CSS v4, Interactive Roster | [Live Demo](https://lxlnimalxl.github.io/futuristic-tactical-landing/) | [Source Code](https://github.com/lxlnimalxl/futuristic-tactical-landing) |
 | **Deluxe Strategy** | Interactive Board Game | React 19, SVG Board Engine, Turn State Machine | [Live Demo](https://lxlnimalxl.github.io/deluxe-strategy-board-game/) | [Source Code](https://github.com/lxlnimalxl/deluxe-strategy-board-game) |
