@@ -1,7 +1,7 @@
 # Seyyed Nima Rounaghi
 ### Full-Stack Software Engineer & UI/UX Designer | Custom Platforms & Security
 
-[LinkedIn](https://www.linkedin.com/in/nima-rounaghi/) &nbsp;|&nbsp; [Email](mailto:nimarounaghi11@gmail.com) &nbsp;|&nbsp; [Telegram](https://t.me/lxlnimalxl) &nbsp;|&nbsp; [GitHub](https://github.com/lxlnimalxl)
+[Interactive Portfolio](https://lxlnimalxl.github.io/nima-rounaghi-portfolio/) &nbsp;|&nbsp; [Download PDF Resume](https://raw.githubusercontent.com/lxlnimalxl/nima-rounaghi-portfolio/main/Seyyed_Nima_Rounaghi_Resume.pdf) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/nima-rounaghi/) &nbsp;|&nbsp; [Email](mailto:nimarounaghi11@gmail.com) &nbsp;|&nbsp; [Telegram](https://t.me/lxlnimalxl) &nbsp;|&nbsp; [GitHub](https://github.com/lxlnimalxl)
 
 ---
 
@@ -38,6 +38,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 
 | Project | Domain / Specialization | Core Architecture | Live Demonstration | Repository |
 | :--- | :--- | :--- | :--- | :--- |
+| **Interactive Portfolio & Resume** | Flagship International Brand Hub | React 19, Tailwind v4, Bilingual i18n, Vector A4 PDF Engine | [Live Demo](https://lxlnimalxl.github.io/nima-rounaghi-portfolio/) | [Source Code](https://github.com/lxlnimalxl/nima-rounaghi-portfolio) |
 | **SHOP.CO** | Full-Stack Apparel & Luxury E-Commerce | React 19, Django 5 REST, 3-Angle PDP, Filters, Cart & Checkout | [Live Demo](https://lxlnimalxl.github.io/shopco-ecommerce-platform/) | [Source Code](https://github.com/lxlnimalxl/shopco-ecommerce-platform) |
 | **CinePass** | Cinema Ticket Booking & Seating Engine | React 19, Django 5 REST, Curved Screen SVG, QR Pass | [Live Demo](https://lxlnimalxl.github.io/cinepass-cinema-ticket-booking/) | [Source Code](https://github.com/lxlnimalxl/cinepass-cinema-ticket-booking) |
 | **Vakil** | International Legal Counsel Platform | React 19, Django 5 REST, Court Fee Engine | [Live Demo](https://lxlnimalxl.github.io/vakil-legal-platform/) | [Source Code](https://github.com/lxlnimalxl/vakil-legal-platform) |
