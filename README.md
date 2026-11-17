@@ -40,7 +40,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 | :--- | :--- | :--- | :--- | :--- |
 | **Interactive Portfolio & Resume** | Flagship International Brand Hub | React 19, Tailwind v4, Bilingual i18n, Vector A4 PDF Engine | [Live Demo](https://lxlnimalxl.github.io/nima-rounaghi-portfolio/) | [Source Code](https://github.com/lxlnimalxl/nima-rounaghi-portfolio) |
 | **Boghcheh (بقچه)** | Cultural Handicrafts Marketplace | Co-Founder, Multi-Vendor Architecture, Payment Gateway, Shipping Engine | [boghcheh.com](https://boghcheh.com/) | [Live Platform](https://boghcheh.com/) |
-| **Megabyte System** | Enterprise IT Infrastructure & IoT | Co-Founder, Arduino/ESP32 Telemetry, Linux LPIC-1 Hardening | [GitHub Profile](https://github.com/lxlnimalxl) | [Systems Spec](https://github.com/lxlnimalxl) |
+| **Megabyte System** | Enterprise IT Infrastructure & IoT | Co-Founder, Arduino/ESP32 Telemetry, Linux LPIC-1 Hardening | [megabytesystem.com](https://megabytesystem.com/) | [megabytesystem.com](https://megabytesystem.com/) |
 | **SHOP.CO** | Full-Stack Apparel & Luxury E-Commerce | React 19, Django 5 REST, 3-Angle PDP, Filters, Cart & Checkout | [Live Demo](https://lxlnimalxl.github.io/shopco-ecommerce-platform/) | [Source Code](https://github.com/lxlnimalxl/shopco-ecommerce-platform) |
 | **CinePass** | Cinema Ticket Booking & Seating Engine | React 19, Django 5 REST, Curved Screen SVG, QR Pass | [Live Demo](https://lxlnimalxl.github.io/cinepass-cinema-ticket-booking/) | [Source Code](https://github.com/lxlnimalxl/cinepass-cinema-ticket-booking) |
 | **Vakil** | International Legal Counsel Platform | React 19, Django 5 REST, Court Fee Engine | [Live Demo](https://lxlnimalxl.github.io/vakil-legal-platform/) | [Source Code](https://github.com/lxlnimalxl/vakil-legal-platform) |
@@ -72,6 +72,7 @@ I do not just write code blindly; I design intuitive interfaces and build system
 Send me a message about what you are trying to build. Let's figure out the smartest and most secure way to get it done.
 
 - **Email:** [nimarounaghi11@gmail.com](mailto:nimarounaghi11@gmail.com)
+- **Phone:** [+98 915 779 9337](tel:+989157799337)
 - **LinkedIn:** [linkedin.com/in/nima-rounaghi](https://www.linkedin.com/in/nima-rounaghi/)
 - **Telegram:** [@lxlnimalxl](https://t.me/lxlnimalxl)
 - **Availability:** Open to select remote contracts and high-impact international projects.
