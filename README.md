@@ -38,6 +38,7 @@ Whether you need a custom web application, an automated bot, a high-converting W
 
 | Project | Domain / Specialization | Core Architecture | Live Demonstration | Repository |
 | :--- | :--- | :--- | :--- | :--- |
+| **SHOP.CO** | Full-Stack Apparel & Luxury E-Commerce | React 19, Django 5 REST, 3-Angle PDP, Filters, Cart & Checkout | [Live Demo](https://lxlnimalxl.github.io/shopco-ecommerce-platform/) | [Source Code](https://github.com/lxlnimalxl/shopco-ecommerce-platform) |
 | **CinePass** | Cinema Ticket Booking & Seating Engine | React 19, Django 5 REST, Curved Screen SVG, QR Pass | [Live Demo](https://lxlnimalxl.github.io/cinepass-cinema-ticket-booking/) | [Source Code](https://github.com/lxlnimalxl/cinepass-cinema-ticket-booking) |
 | **Vakil** | International Legal Counsel Platform | React 19, Django 5 REST, Court Fee Engine | [Live Demo](https://lxlnimalxl.github.io/vakil-legal-platform/) | [Source Code](https://github.com/lxlnimalxl/vakil-legal-platform) |
 | **Ashyaneh** | Full-Stack Accommodation Booking | React 19, Django 5 REST, Dual Desktop/Mobile Sim | [Live Demo](https://lxlnimalxl.github.io/ashyaneh-hotel-booking-platform/) | [Source Code](https://github.com/lxlnimalxl/ashyaneh-hotel-booking-platform) |
